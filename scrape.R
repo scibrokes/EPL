@@ -1,6 +1,6 @@
 library(BBmisc)
 pkg <- c('rvest','tidyverse','plyr','dplyr','stringr','xml2','XML', 
-         'RCurl', 'devtools', 'RSelenium', 'lubridate', 'zoo')
+         'RCurl', 'devtools', 'RSelenium', 'lubridate', 'zoo', 'magrittr')
 lib(pkg)
 
 lnk <- 'https://188yingqiu.com/en-gb/asia'
@@ -12,71 +12,58 @@ res <- lnk2a %>%
   html_table(fill=TRUE) %>% 
   bind_rows %>% 
   tbl_df %>% 
-  .[-1, 1:5]
+  .[-1, c(1, 3:5)]
 
 fix <-lnk2b %>% 
   read_html %>% 
   html_table(fill=TRUE) %>% 
   bind_rows %>% 
   tbl_df %>% 
-  .[-1, 1:5]
-
-res <- lnk2a %>% 
-  read_html %>% 
-  html_table(fill=TRUE) %>% 
-  bind_rows %>% 
-  tbl_df %>% 
-  .[-1, c(1,3:5)]
-
-fix <-lnk2b %>% 
-  read_html %>% 
-  html_table(fill=TRUE) %>% 
-  bind_rows %>% 
-  tbl_df %>% 
-  .[-1, c(1,3:5)]
+  .[-1, c(1, 3:5)]
 
 res <- bind_rows(res, fix)
 rm(fix)
 
-res %<>% rename('index' = X1, 'Home' = X3, 
-                HG = 'X4', 'Away' = X5)
+names(res) <- c('KODate', 'Home', 'HG', 'Away')
 score <- res$HG %>% 
   str_split_fixed(' - ', 3) %>% 
   .[,1:2] %>% data.frame %>% 
-  tbl_df %>% mutate_if(is.factor, as.numeric) %>% 
-  rename(HG = X1, AG = X2)
+  tbl_df %>% mutate_if(is.factor, as.numeric)
+names(score) <- c('FTHG', 'FTAG')
 
 res <- bind_cols(res[,-3], score)
 rm(score)
-index <- res$index %>% str_replace_all('\\.', '/')
+index <- res$KODate %>% str_replace_all('\\.', '/')
 index <- substr(index, 1, 8) %>% dmy
-res$index <- index
+res$KODate <- index
 
 res %<>% mutate(Home = as.factor(Home), 
                 Away = as.factor(Away))
 rm(index)
 res %<>% arrange(index)
 
-## 
+## =============================================================
 ## https://www.scorespro.com/soccer/england/premier-league/results/
 
 res <- readLines('fixture.txt') %>% 
   str_split('\t') %>% llply(., function(x) x %>% data.frame %>% t %>% data.frame) %>% 
   bind_rows %>% 
   .[c(1:2, 4:6)] %>% tbl_df
-names(res) <- c('Round', 'index', 'Home', 'HG', 'Away')
+names(res) <- c('Round', 'KODate', 'Home', 'HG', 'Away')
 
 score <- res$HG %>% 
   str_split_fixed(' - ', 3) %>% 
   .[,1:2] %>% data.frame %>% 
-  tbl_df %>% mutate_if(is.factor, as.numeric) %>% 
-  rename(HG = X1, AG = X2)
+  tbl_df
+names(score) <- c('FTHG', 'FTAG')
+score %<>% mutate(FTHG = as.numeric(as.character(FTHG)), 
+                  FTAG = as.numeric(as.character(FTAG)))
 
 res <- bind_cols(res[,-4], score)
 rm(score)
-index <- res$index %>% str_replace_all('\\.', '/')
+index <- res$KODate %>% str_replace_all('\\.', '/')
 index <- substr(index, 1, 8) %>% dmy
-res$index <- index
+res$KODate <- index
 
 res %<>% mutate(Home = as.factor(Home), 
                 Away = as.factor(Away))
@@ -85,18 +72,24 @@ rm(index)
 res %<>% 
   mutate(Round = na.locf(Round) %>% 
            str_replace_all('Round ', '') %>% 
-           as.numeric) %>% 
-  na.omit
-res %<>% arrange(index)
+           as.numeric)# %>% 
+  #na.omit
+res %<>% arrange(KODate)
 
 ## =========================================================
 
 install_github('scibrokes/Rmodel')
 require('Rmodel')
 
-res %<>% rename(KODate = index, FTHG = HG, FTAG = AG)
+source('function/compileIndex2.R')
+source('function/bvp.R')
+
 compileIndex2(data=res)
 
+## =========================================================
+
+l1=FTHG~1; l2=FTAG~1; l1l2= ~c(Home,Away)+c(Away,Home); l3=~1;
+data; maxit=300; xi=NULL; fordate=NULL; fun="glm"; inflated=TRUE
 
 
 

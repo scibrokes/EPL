@@ -1,3 +1,311 @@
+Round 11
+02.11.19  15:30		Bournemouth	-	Manchester United	-			
+02.11.19  18:00		Arsenal	-	Wolves	-			
+02.11.19  18:00		Aston Villa	-	Liverpool	-			
+02.11.19  18:00		Brighton	-	Norwich	-			
+02.11.19  18:00		Manchester City	-	Southampton	-			
+02.11.19  18:00		Sheffield Utd	-	Burnley	-			
+02.11.19  18:00		West Ham	-	Newcastle	-			
+02.11.19  20:30		Watford	-	Chelsea	-			
+03.11.19  17:00		Crystal Palace	-	Leicester	-			
+03.11.19  19:30		Everton	-	Tottenham	-			
+Round 12
+08.11.19  23:00		Norwich	-	Watford	-			
+09.11.19  15:30		Chelsea	-	Crystal Palace	-			
+09.11.19  18:00		Burnley	-	West Ham	-			
+09.11.19  18:00		Newcastle	-	Bournemouth	-			
+09.11.19  18:00		Southampton	-	Everton	-			
+09.11.19  18:00		Tottenham	-	Sheffield Utd	-			
+09.11.19  20:30		Leicester	-	Arsenal	-			
+10.11.19  17:00		Manchester United	-	Brighton	-			
+10.11.19  17:00		Wolves	-	Aston Villa	-			
+10.11.19  19:30		Liverpool	-	Manchester City	-			
+Round 13
+23.11.19  15:30		West Ham	-	Tottenham	-			
+23.11.19  18:00		Arsenal	-	Southampton	-			
+23.11.19  18:00		Bournemouth	-	Wolves	-			
+23.11.19  18:00		Brighton	-	Leicester	-			
+23.11.19  18:00		Crystal Palace	-	Liverpool	-			
+23.11.19  18:00		Everton	-	Norwich	-			
+23.11.19  18:00		Watford	-	Burnley	-			
+23.11.19  20:30		Manchester City	-	Chelsea	-			
+24.11.19  19:30		Sheffield Utd	-	Manchester United	-			
+25.11.19  23:00		Aston Villa	-	Newcastle	-			
+Round 14
+30.11.19  15:30		Newcastle	-	Manchester City	-			
+30.11.19  18:00		Burnley	-	Crystal Palace	-			
+30.11.19  18:00		Chelsea	-	West Ham	-			
+30.11.19  18:00		Liverpool	-	Brighton	-			
+30.11.19  18:00		Tottenham	-	Bournemouth	-			
+30.11.19  20:30		Southampton	-	Watford	-			
+01.12.19  17:00		Norwich	-	Arsenal	-			
+01.12.19  17:00		Wolves	-	Sheffield Utd	-			
+01.12.19  19:30		Leicester	-	Everton	-			
+01.12.19  19:30		Manchester United	-	Aston Villa	-			
+Round 15
+03.12.19  22:30		Crystal Palace	-	Bournemouth	-			
+03.12.19  23:15		Burnley	-	Manchester City	-			
+04.12.19  22:30		Chelsea	-	Aston Villa	-			
+04.12.19  22:30		Leicester	-	Watford	-			
+04.12.19  22:30		Manchester United	-	Tottenham	-			
+04.12.19  22:30		Southampton	-	Norwich	-			
+04.12.19  22:30		Wolves	-	West Ham	-			
+04.12.19  23:15		Liverpool	-	Everton	-			
+05.12.19  22:30		Sheffield Utd	-	Newcastle	-			
+05.12.19  23:15		Arsenal	-	Brighton	-			
+Round 16
+07.12.19  15:30		Everton	-	Chelsea	-			
+07.12.19  18:00		Bournemouth	-	Liverpool	-			
+07.12.19  18:00		Tottenham	-	Burnley	-			
+07.12.19  18:00		Watford	-	Crystal Palace	-			
+07.12.19  20:30		Manchester City	-	Manchester United	-			
+08.12.19  17:00		Aston Villa	-	Leicester	-			
+08.12.19  17:00		Newcastle	-	Southampton	-			
+08.12.19  17:00		Norwich	-	Sheffield Utd	-			
+08.12.19  19:30		Brighton	-	Wolves	-			
+09.12.19  23:00		West Ham	-	Arsenal	-			
+Round 17
+14.12.19  15:30		Liverpool	-	Watford	-			
+14.12.19  18:00		Burnley	-	Newcastle	-			
+14.12.19  18:00		Chelsea	-	Bournemouth	-			
+14.12.19  18:00		Leicester	-	Norwich	-			
+14.12.19  18:00		Sheffield Utd	-	Aston Villa	-			
+14.12.19  20:30		Southampton	-	West Ham	-			
+15.12.19  17:00		Manchester United	-	Everton	-			
+15.12.19  17:00		Wolves	-	Tottenham	-			
+15.12.19  19:30		Arsenal	-	Manchester City	-			
+16.12.19  23:00		Crystal Palace	-	Brighton	-			
+Round 18
+21.12.19  15:30		Everton	-	Arsenal	-			
+21.12.19  18:00		Aston Villa	-	Southampton	-			
+21.12.19  18:00		Bournemouth	-	Burnley	-			
+21.12.19  18:00		Brighton	-	Sheffield Utd	-			
+21.12.19  18:00		Newcastle	-	Crystal Palace	-			
+21.12.19  18:00		Norwich	-	Wolves	-			
+21.12.19  18:00	Pst	West Ham	-	Liverpool	-			
+21.12.19  20:30		Manchester City	-	Leicester	-			
+22.12.19  17:00		Watford	-	Manchester United	-			
+22.12.19  19:30		Tottenham	-	Chelsea	-			
+Round 19
+26.12.19  15:30		Tottenham	-	Brighton	-			
+26.12.19  18:00		Aston Villa	-	Norwich	-			
+26.12.19  18:00		Bournemouth	-	Arsenal	-			
+26.12.19  18:00		Chelsea	-	Southampton	-			
+26.12.19  18:00		Crystal Palace	-	West Ham	-			
+26.12.19  18:00		Everton	-	Burnley	-			
+26.12.19  18:00		Sheffield Utd	-	Watford	-			
+26.12.19  20:30		Manchester United	-	Newcastle	-			
+26.12.19  23:00		Leicester	-	Liverpool	-			
+27.12.19  22:45		Wolves	-	Manchester City	-			
+Round 20
+28.12.19  15:30		Brighton	-	Bournemouth	-			
+28.12.19  18:00		Newcastle	-	Everton	-			
+28.12.19  18:00		Southampton	-	Crystal Palace	-			
+28.12.19  18:00		Watford	-	Aston Villa	-			
+28.12.19  20:30		Norwich	-	Tottenham	-			
+28.12.19  20:30		West Ham	-	Leicester	-			
+28.12.19  22:45		Burnley	-	Manchester United	-			
+29.12.19  17:00		Arsenal	-	Chelsea	-			
+29.12.19  19:30		Liverpool	-	Wolves	-			
+29.12.19  21:00		Manchester City	-	Sheffield Utd	-			
+Round 21
+01.01.20  15:30		Brighton	-	Chelsea	-			
+01.01.20  15:30		Burnley	-	Aston Villa	-			
+01.01.20  18:00		Newcastle	-	Leicester	-			
+01.01.20  18:00		Southampton	-	Tottenham	-			
+01.01.20  18:00		Watford	-	Wolves	-			
+01.01.20  20:30		Manchester City	-	Everton	-			
+01.01.20  20:30		Norwich	-	Crystal Palace	-			
+01.01.20  20:30		West Ham	-	Bournemouth	-			
+01.01.20  23:00		Arsenal	-	Manchester United	-			
+02.01.20  23:00		Liverpool	-	Sheffield Utd	-			
+Round 22
+10.01.20  23:00		Sheffield Utd	-	West Ham	-			
+11.01.20  15:30		Crystal Palace	-	Arsenal	-			
+11.01.20  18:00		Chelsea	-	Burnley	-			
+11.01.20  18:00		Everton	-	Brighton	-			
+11.01.20  18:00		Leicester	-	Southampton	-			
+11.01.20  18:00		Manchester United	-	Norwich	-			
+11.01.20  18:00		Wolves	-	Newcastle	-			
+11.01.20  20:30		Tottenham	-	Liverpool	-			
+12.01.20  17:00		Bournemouth	-	Watford	-			
+12.01.20  19:30		Aston Villa	-	Manchester City	-			
+Round 23
+18.01.20  15:30		Watford	-	Tottenham	-			
+18.01.20  18:00		Arsenal	-	Sheffield Utd	-			
+18.01.20  18:00		Brighton	-	Aston Villa	-			
+18.01.20  18:00		Manchester City	-	Crystal Palace	-			
+18.01.20  18:00		Norwich	-	Bournemouth	-			
+18.01.20  18:00		Southampton	-	Wolves	-			
+18.01.20  18:00		West Ham	-	Everton	-			
+18.01.20  20:30		Newcastle	-	Chelsea	-			
+19.01.20  17:00		Burnley	-	Leicester	-			
+19.01.20  19:30		Liverpool	-	Manchester United	-			
+Round 24
+21.01.20  22:30		Aston Villa	-	Watford	-			
+21.01.20  22:30		Bournemouth	-	Brighton	-			
+21.01.20  22:30		Crystal Palace	-	Southampton	-			
+21.01.20  22:30		Everton	-	Newcastle	-			
+21.01.20  22:30		Sheffield Utd	-	Manchester City	-			
+21.01.20  23:15		Chelsea	-	Arsenal	-			
+22.01.20  22:30		Leicester	-	West Ham	-			
+22.01.20  22:30		Tottenham	-	Norwich	-			
+22.01.20  23:15		Manchester United	-	Burnley	-			
+23.01.20  23:00		Wolves	-	Liverpool	-			
+Round 25
+01.02.20  18:00		Bournemouth	-	Aston Villa	-			
+01.02.20  18:00		Burnley	-	Arsenal	-			
+01.02.20  18:00		Crystal Palace	-	Sheffield Utd	-			
+01.02.20  18:00		Leicester	-	Chelsea	-			
+01.02.20  18:00		Liverpool	-	Southampton	-			
+01.02.20  18:00		Manchester United	-	Wolves	-			
+01.02.20  18:00		Newcastle	-	Norwich	-			
+01.02.20  18:00		Tottenham	-	Manchester City	-			
+01.02.20  18:00		Watford	-	Everton	-			
+01.02.20  18:00		West Ham	-	Brighton	-			
+Round 26
+08.02.20  18:00		Arsenal	-	Newcastle	-			
+08.02.20  18:00		Aston Villa	-	Tottenham	-			
+08.02.20  18:00		Brighton	-	Watford	-			
+08.02.20  18:00		Chelsea	-	Manchester United	-			
+08.02.20  18:00		Everton	-	Crystal Palace	-			
+08.02.20  18:00		Manchester City	-	West Ham	-			
+08.02.20  18:00		Norwich	-	Liverpool	-			
+08.02.20  18:00		Sheffield Utd	-	Bournemouth	-			
+08.02.20  18:00		Southampton	-	Burnley	-			
+08.02.20  18:00		Wolves	-	Leicester	-			
+Round 27
+22.02.20  18:00		Arsenal	-	Everton	-			
+22.02.20  18:00		Burnley	-	Bournemouth	-			
+22.02.20  18:00		Chelsea	-	Tottenham	-			
+22.02.20  18:00		Crystal Palace	-	Newcastle	-			
+22.02.20  18:00		Leicester	-	Manchester City	-			
+22.02.20  18:00		Liverpool	-	West Ham	-			
+22.02.20  18:00		Manchester United	-	Watford	-			
+22.02.20  18:00		Sheffield Utd	-	Brighton	-			
+22.02.20  18:00		Southampton	-	Aston Villa	-			
+22.02.20  18:00		Wolves	-	Norwich	-			
+Round 28
+29.02.20  18:00		Aston Villa	-	Sheffield Utd	-			
+29.02.20  18:00		Bournemouth	-	Chelsea	-			
+29.02.20  18:00		Brighton	-	Crystal Palace	-			
+29.02.20  18:00		Everton	-	Manchester United	-			
+29.02.20  18:00		Manchester City	-	Arsenal	-			
+29.02.20  18:00		Newcastle	-	Burnley	-			
+29.02.20  18:00		Norwich	-	Leicester	-			
+29.02.20  18:00		Tottenham	-	Wolves	-			
+29.02.20  18:00		Watford	-	Liverpool	-			
+29.02.20  18:00		West Ham	-	Southampton	-			
+Round 29
+07.03.20  18:00		Arsenal	-	West Ham	-			
+07.03.20  18:00		Burnley	-	Tottenham	-			
+07.03.20  18:00		Chelsea	-	Everton	-			
+07.03.20  18:00		Crystal Palace	-	Watford	-			
+07.03.20  18:00		Leicester	-	Aston Villa	-			
+07.03.20  18:00		Liverpool	-	Bournemouth	-			
+07.03.20  18:00		Manchester United	-	Manchester City	-			
+07.03.20  18:00		Sheffield Utd	-	Norwich	-			
+07.03.20  18:00		Southampton	-	Newcastle	-			
+07.03.20  18:00		Wolves	-	Brighton	-			
+Round 30
+14.03.20  18:00		Aston Villa	-	Chelsea	-			
+14.03.20  18:00		Bournemouth	-	Crystal Palace	-			
+14.03.20  18:00		Brighton	-	Arsenal	-			
+14.03.20  18:00		Everton	-	Liverpool	-			
+14.03.20  18:00		Manchester City	-	Burnley	-			
+14.03.20  18:00		Newcastle	-	Sheffield Utd	-			
+14.03.20  18:00		Norwich	-	Southampton	-			
+14.03.20  18:00		Tottenham	-	Manchester United	-			
+14.03.20  18:00		Watford	-	Leicester	-			
+14.03.20  18:00		West Ham	-	Wolves	-			
+Round 31
+21.03.20  18:00		Burnley	-	Watford	-			
+21.03.20  18:00		Chelsea	-	Manchester City	-			
+21.03.20  18:00		Leicester	-	Brighton	-			
+21.03.20  18:00		Liverpool	-	Crystal Palace	-			
+21.03.20  18:00		Manchester United	-	Sheffield Utd	-			
+21.03.20  18:00		Newcastle	-	Aston Villa	-			
+21.03.20  18:00		Norwich	-	Everton	-			
+21.03.20  18:00		Southampton	-	Arsenal	-			
+21.03.20  18:00		Tottenham	-	West Ham	-			
+21.03.20  18:00		Wolves	-	Bournemouth	-			
+Round 32
+04.04.20  17:00		Arsenal	-	Norwich	-			
+04.04.20  17:00		Aston Villa	-	Wolves	-			
+04.04.20  17:00		Bournemouth	-	Newcastle	-			
+04.04.20  17:00		Brighton	-	Manchester United	-			
+04.04.20  17:00		Crystal Palace	-	Burnley	-			
+04.04.20  17:00		Everton	-	Leicester	-			
+04.04.20  17:00		Manchester City	-	Liverpool	-			
+04.04.20  17:00		Sheffield Utd	-	Tottenham	-			
+04.04.20  17:00		Watford	-	Southampton	-			
+04.04.20  17:00		West Ham	-	Chelsea	-			
+Round 33
+11.04.20  17:00		Burnley	-	Sheffield Utd	-			
+11.04.20  17:00		Chelsea	-	Watford	-			
+11.04.20  17:00		Leicester	-	Crystal Palace	-			
+11.04.20  17:00		Liverpool	-	Aston Villa	-			
+11.04.20  17:00		Manchester United	-	Bournemouth	-			
+11.04.20  17:00		Newcastle	-	West Ham	-			
+11.04.20  17:00		Norwich	-	Brighton	-			
+11.04.20  17:00		Southampton	-	Manchester City	-			
+11.04.20  17:00		Tottenham	-	Everton	-			
+11.04.20  17:00		Wolves	-	Arsenal	-			
+Round 34
+18.04.20  17:00		Arsenal	-	Leicester	-			
+18.04.20  17:00		Aston Villa	-	Manchester United	-			
+18.04.20  17:00		Bournemouth	-	Tottenham	-			
+18.04.20  17:00		Brighton	-	Liverpool	-			
+18.04.20  17:00		Crystal Palace	-	Chelsea	-			
+18.04.20  17:00		Everton	-	Southampton	-			
+18.04.20  17:00		Manchester City	-	Newcastle	-			
+18.04.20  17:00		Sheffield Utd	-	Wolves	-			
+18.04.20  17:00		Watford	-	Norwich	-			
+18.04.20  17:00		West Ham	-	Burnley	-			
+Round 35
+25.04.20  17:00		Aston Villa	-	Crystal Palace	-			
+25.04.20  17:00		Bournemouth	-	Leicester	-			
+25.04.20  17:00		Brighton	-	Manchester City	-			
+25.04.20  17:00		Liverpool	-	Burnley	-			
+25.04.20  17:00		Manchester United	-	Southampton	-			
+25.04.20  17:00		Norwich	-	West Ham	-			
+25.04.20  17:00		Sheffield Utd	-	Chelsea	-			
+25.04.20  17:00		Tottenham	-	Arsenal	-			
+25.04.20  17:00		Watford	-	Newcastle	-			
+25.04.20  17:00		Wolves	-	Everton	-			
+Round 36
+02.05.20  17:00		Arsenal	-	Liverpool	-			
+02.05.20  17:00		Burnley	-	Wolves	-			
+02.05.20  17:00		Chelsea	-	Norwich	-			
+02.05.20  17:00		Crystal Palace	-	Manchester United	-			
+02.05.20  17:00		Everton	-	Aston Villa	-			
+02.05.20  17:00		Leicester	-	Sheffield Utd	-			
+02.05.20  17:00		Manchester City	-	Bournemouth	-			
+02.05.20  17:00		Newcastle	-	Tottenham	-			
+02.05.20  17:00		Southampton	-	Brighton	-			
+02.05.20  17:00		West Ham	-	Watford	-			
+Round 37
+09.05.20  17:00		Aston Villa	-	Arsenal	-			
+09.05.20  17:00		Bournemouth	-	Southampton	-			
+09.05.20  17:00		Brighton	-	Newcastle	-			
+09.05.20  17:00		Liverpool	-	Chelsea	-			
+09.05.20  17:00		Manchester United	-	West Ham	-			
+09.05.20  17:00		Norwich	-	Burnley	-			
+09.05.20  17:00		Sheffield Utd	-	Everton	-			
+09.05.20  17:00		Tottenham	-	Leicester	-			
+09.05.20  17:00		Watford	-	Manchester City	-			
+09.05.20  17:00		Wolves	-	Crystal Palace	-			
+Round 38
+17.05.20  17:00		Arsenal	-	Watford	-			
+17.05.20  17:00		Burnley	-	Brighton	-			
+17.05.20  17:00		Chelsea	-	Wolves	-			
+17.05.20  17:00		Crystal Palace	-	Tottenham	-			
+17.05.20  17:00		Everton	-	Bournemouth	-			
+17.05.20  17:00		Leicester	-	Manchester United	-			
+17.05.20  17:00		Manchester City	-	Norwich	-			
+17.05.20  17:00		Newcastle	-	Liverpool	-			
+17.05.20  17:00		Southampton	-	Sheffield Utd	-			
+17.05.20  17:00		West Ham	-	Aston Villa	-		
 Round 10
 27.10.19  17:00	FT	Newcastle	1 - 1	Wolves	(1 - 0)			
 27.10.19  19:30	FT	Arsenal	2 - 2	Crystal Palace	(2 - 1)			
