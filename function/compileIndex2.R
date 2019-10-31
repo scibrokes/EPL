@@ -22,6 +22,7 @@ compileIndex2 <- function (l1=FTHG~1, l2=FTAG~1, l1l2= ~c(Home,Away)+c(Away,Home
     stop('The fun argument must be either "glm" or "speedglm".\n',call.=FALSE)
   
   ## data$KODate <- as.POSIXct(data$KODate)
+  data <- na.omit(data.frame(data))
   data <- data[order(data$KODate,decreasing=TRUE),]
   attr(data$Home,'levels') <- levels(factor(data$Home))
   attr(data$Away,'levels') <- levels(factor(data$Away))

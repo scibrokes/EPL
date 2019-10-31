@@ -48,7 +48,7 @@ compileOdds <- function(dbase, mbase, HT = TRUE, FT = TRUE, homeavd = TRUE, infl
   lapply(z, function(z) y[[z]]/sum(y[[z]])) }
   # --------------------------------------------------------------
   fodds <- function(x, mdata) { z <- 1:length(x)
-  data.frame(matchdata, Win  = unlist(lapply(z, function(z) 
+  data.frame(mdata, Win  = unlist(lapply(z, function(z) 
     sum(x[[z]][row(x[[z]]) >  col(x[[z]])]))),
     Draw = unlist(lapply(z, function(z) 
       sum(x[[z]][row(x[[z]]) == col(x[[z]])]))),
