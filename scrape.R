@@ -1,6 +1,7 @@
 library(BBmisc)
 pkg <- c('rvest','tidyverse','plyr','dplyr','stringr','xml2','XML', 'tidyr', 
-         'RCurl', 'devtools', 'RSelenium', 'lubridate', 'zoo', 'magrittr', 'purrr')
+         'RCurl', 'devtools', 'RSelenium', 'lubridate', 'zoo', 'magrittr', 
+         'purrr', 'PerformanceAnalytics', 'openxlsx')
 lib(pkg)
 
 lnk <- 'https://188yingqiu.com/en-gb/asia'
@@ -88,8 +89,8 @@ source('function/compileOdds (need to review).R')
 l1=FTHG~1; l2=FTAG~1; l1l2= ~c(Home,Away)+c(Away,Home); l3=~1;
 data = na.omit(res); maxit=300; xi=-0.000007; fordate=NULL; fun="glm"; inflated=TRUE
 
-result <- compileIndex2(data=res, xi = -0.000007, fordate = ymd('2019-11-02'))
-res2 <- subset(res, KODate == ymd('2019-11-02'))
+result <- compileIndex2(data=res, xi = -0.000007, fordate = ymd('2019-11-03'))
+res2 <- subset(res, KODate == ymd('2019-11-03'))
 
 
 # =======================================================
@@ -530,6 +531,22 @@ FTTG <- tgoal(FTmxt, mbase)
 FTOE <- oddeven(FTmxt, mbase)
 FTTOU <- teamgoal(FTmxt, mbase)
 
+## 
+data.frame(res2, FTAH)[c('KODate', 'Home', 'Away', 'HP0.25', 'AN0.25')]
+read.xlsx('res2.xlsx', detectDates = TRUE)
+
+(data.frame(res2, FTAH)[c('KODate', 'Home', 'Away', 'HP0.25', 'AN0.25')]$AN0.25 %>% 
+    as.character %>% 
+    as.numeric %>% .[1] * 1.94) - 
+  (1 - (data.frame(res2, FTAH)[c('KODate', 'Home', 'Away', 'AN0.25', 'HP0.25')]$AN0.25 %>% 
+          as.character %>% 
+          as.numeric %>% .[1]))
+#[1]0.3400971
+
+
+
+
+## https://srdas.github.io/MLBook/Gambling.html#linking-the-kelly-criterion-to-portfolio-optimization
 
 
 
