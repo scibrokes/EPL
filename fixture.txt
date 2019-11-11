@@ -1,25 +1,25 @@
 Round 11
-02.11.19  15:30		Bournemouth	-	Manchester United	-			
-02.11.19  18:00		Arsenal	-	Wolves	-			
-02.11.19  18:00		Aston Villa	-	Liverpool	-			
-02.11.19  18:00		Brighton	-	Norwich	-			
-02.11.19  18:00		Manchester City	-	Southampton	-			
-02.11.19  18:00		Sheffield Utd	-	Burnley	-			
-02.11.19  18:00		West Ham	-	Newcastle	-			
-02.11.19  20:30		Watford	-	Chelsea	-			
-03.11.19  17:00		Crystal Palace	-	Leicester	-			
-03.11.19  19:30		Everton	-	Tottenham	-			
+02.11.19  15:30		Bournemouth	1 - 0	Manchester United	-			
+02.11.19  18:00		Arsenal	1 - 1	Wolves	-			
+02.11.19  18:00		Aston Villa	1 - 2	Liverpool	-			
+02.11.19  18:00		Brighton	2 - 0	Norwich	-			
+02.11.19  18:00		Manchester City	2 - 1	Southampton	-			
+02.11.19  18:00		Sheffield Utd	3 - 0	Burnley	-			
+02.11.19  18:00		West Ham	2 - 3	Newcastle	-			
+02.11.19  20:30		Watford	1 - 2	Chelsea	-			
+03.11.19  17:00		Crystal Palace	0 - 2	Leicester	-			
+03.11.19  19:30		Everton	1 - 1	Tottenham	-			
 Round 12
-08.11.19  23:00		Norwich	-	Watford	-			
-09.11.19  15:30		Chelsea	-	Crystal Palace	-			
-09.11.19  18:00		Burnley	-	West Ham	-			
-09.11.19  18:00		Newcastle	-	Bournemouth	-			
-09.11.19  18:00		Southampton	-	Everton	-			
-09.11.19  18:00		Tottenham	-	Sheffield Utd	-			
-09.11.19  20:30		Leicester	-	Arsenal	-			
-10.11.19  17:00		Manchester United	-	Brighton	-			
-10.11.19  17:00		Wolves	-	Aston Villa	-			
-10.11.19  19:30		Liverpool	-	Manchester City	-			
+08.11.19  23:00		Norwich	0 - 2	Watford	-			
+09.11.19  15:30		Chelsea	2 - 0	Crystal Palace	-			
+09.11.19  18:00		Burnley	3 - 0	West Ham	-			
+09.11.19  18:00		Newcastle	2 - 1	Bournemouth	-			
+09.11.19  18:00		Southampton	1 - 2	Everton	-			
+09.11.19  18:00		Tottenham	1 - 1	Sheffield Utd	-			
+09.11.19  20:30		Leicester	2 - 0	Arsenal	-			
+10.11.19  17:00		Manchester United	3 - 1	Brighton	-			
+10.11.19  17:00		Wolves	2 - 1	Aston Villa	-			
+10.11.19  19:30		Liverpool	3 - 1	Manchester City	-			
 Round 13
 23.11.19  15:30		West Ham	-	Tottenham	-			
 23.11.19  18:00		Arsenal	-	Southampton	-			
