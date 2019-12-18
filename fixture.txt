@@ -21,60 +21,60 @@ Round 12
 10.11.19  17:00		Wolves	2 - 1	Aston Villa	-			
 10.11.19  19:30		Liverpool	3 - 1	Manchester City	-			
 Round 13
-23.11.19  15:30		West Ham	-	Tottenham	-			
-23.11.19  18:00		Arsenal	-	Southampton	-			
-23.11.19  18:00		Bournemouth	-	Wolves	-			
-23.11.19  18:00		Brighton	-	Leicester	-			
-23.11.19  18:00		Crystal Palace	-	Liverpool	-			
-23.11.19  18:00		Everton	-	Norwich	-			
-23.11.19  18:00		Watford	-	Burnley	-			
-23.11.19  20:30		Manchester City	-	Chelsea	-			
-24.11.19  19:30		Sheffield Utd	-	Manchester United	-			
-25.11.19  23:00		Aston Villa	-	Newcastle	-			
+25.11.19  23:00		Aston Villa	2 - 0	Newcastle	(2 - 0)			
+24.11.19  19:30   Sheffield Utd 3 - 3 Manchester United	-		
+23.11.19  15:30		West Ham	2 - 3	Tottenham	(0 - 2)			
+23.11.19  18:00		Arsenal	2 - 2	Southampton	(1 - 1)			
+23.11.19  18:00		Bournemouth	1 - 2	Wolves	(0 - 2)			
+23.11.19  18:00		Brighton	0 - 2	Leicester	(0 - 0)			
+23.11.19  18:00		Crystal Palace	1 - 2	Liverpool	(0 - 0)			
+23.11.19  18:00		Everton	0 - 2	Norwich	(0 - 0)			
+23.11.19  18:00		Watford	0 - 3	Burnley	(0 - 0)			
+23.11.19  20:30		Manchester City	2 - 1	Chelsea
 Round 14
-30.11.19  15:30		Newcastle	-	Manchester City	-			
-30.11.19  18:00		Burnley	-	Crystal Palace	-			
-30.11.19  18:00		Chelsea	-	West Ham	-			
-30.11.19  18:00		Liverpool	-	Brighton	-			
-30.11.19  18:00		Tottenham	-	Bournemouth	-			
-30.11.19  20:30		Southampton	-	Watford	-			
-01.12.19  17:00		Norwich	-	Arsenal	-			
-01.12.19  17:00		Wolves	-	Sheffield Utd	-			
-01.12.19  19:30		Leicester	-	Everton	-			
-01.12.19  19:30		Manchester United	-	Aston Villa	-			
+01.12.19  17:00		Norwich	2 - 2	Arsenal	(2 - 1)			
+01.12.19  17:00		Wolves	1 - 1	Sheffield Utd	(0 - 1)			
+01.12.19  19:30		Leicester	2 - 1	Everton	(0 - 1)			
+01.12.19  19:30		Manchester United	2 - 2	Aston Villa	(1 - 1)			
+30.11.19  15:30		Newcastle	2 - 2	Manchester City	(1 - 1)			
+30.11.19  18:00		Burnley	0 - 2	Crystal Palace	(0 - 1)			
+30.11.19  18:00		Chelsea	0 - 1	West Ham	(0 - 0)			
+30.11.19  18:00		Liverpool	2 - 1	Brighton	(2 - 0)			
+30.11.19  18:00		Tottenham	3 - 2	Bournemouth	(1 - 0)			
+30.11.19  20:30		Southampton	2 - 1	Watford	(0 - 1)
 Round 15
-03.12.19  22:30		Crystal Palace	-	Bournemouth	-			
-03.12.19  23:15		Burnley	-	Manchester City	-			
-04.12.19  22:30		Chelsea	-	Aston Villa	-			
-04.12.19  22:30		Leicester	-	Watford	-			
-04.12.19  22:30		Manchester United	-	Tottenham	-			
-04.12.19  22:30		Southampton	-	Norwich	-			
-04.12.19  22:30		Wolves	-	West Ham	-			
-04.12.19  23:15		Liverpool	-	Everton	-			
-05.12.19  22:30		Sheffield Utd	-	Newcastle	-			
-05.12.19  23:15		Arsenal	-	Brighton	-			
+05.12.19  22:30		Sheffield Utd	0 - 2	Newcastle	(0 - 1)			
+05.12.19  23:15		Arsenal	1 - 2	Brighton	(0 - 1)			
+04.12.19  22:30		Chelsea	2 - 1	Aston Villa	(1 - 1)			
+04.12.19  22:30		Leicester	2 - 0	Watford	(0 - 0)			
+04.12.19  22:30		Manchester United	2 - 1	Tottenham	(1 - 1)			
+04.12.19  22:30		Southampton	2 - 1	Norwich	(2 - 0)			
+04.12.19  22:30		Wolves	2 - 0	West Ham	(1 - 0)			
+04.12.19  23:15		Liverpool	5 - 2	Everton	(4 - 2)			
+03.12.19  22:30		Crystal Palace	1 - 0	Bournemouth	(0 - 0)			
+03.12.19  23:15		Burnley	1 - 4	Manchester City	(0 - 1)			
 Round 16
-07.12.19  15:30		Everton	-	Chelsea	-			
-07.12.19  18:00		Bournemouth	-	Liverpool	-			
-07.12.19  18:00		Tottenham	-	Burnley	-			
-07.12.19  18:00		Watford	-	Crystal Palace	-			
-07.12.19  20:30		Manchester City	-	Manchester United	-			
-08.12.19  17:00		Aston Villa	-	Leicester	-			
-08.12.19  17:00		Newcastle	-	Southampton	-			
-08.12.19  17:00		Norwich	-	Sheffield Utd	-			
-08.12.19  19:30		Brighton	-	Wolves	-			
-09.12.19  23:00		West Ham	-	Arsenal	-			
+09.12.19  23:00		West Ham	1 - 3	Arsenal	(1 - 0)			
+08.12.19  17:00		Aston Villa	1 - 4	Leicester	(1 - 2)			
+08.12.19  17:00		Newcastle	2 - 1	Southampton	(0 - 0)			
+08.12.19  17:00		Norwich	1 - 2	Sheffield Utd	(1 - 0)			
+08.12.19  19:30		Brighton	2 - 2	Wolves	(2 - 2)			
+07.12.19  15:30		Everton	3 - 1	Chelsea	(1 - 0)			
+07.12.19  18:00		Bournemouth	0 - 3	Liverpool	(0 - 2)			
+07.12.19  18:00		Tottenham	5 - 0	Burnley	(3 - 0)			
+07.12.19  18:00		Watford	0 - 0	Crystal Palace	(0 - 0)			
+07.12.19  20:30		Manchester City	1 - 2	Manchester United	(0 - 2)	
 Round 17
-14.12.19  15:30		Liverpool	-	Watford	-			
-14.12.19  18:00		Burnley	-	Newcastle	-			
-14.12.19  18:00		Chelsea	-	Bournemouth	-			
-14.12.19  18:00		Leicester	-	Norwich	-			
-14.12.19  18:00		Sheffield Utd	-	Aston Villa	-			
-14.12.19  20:30		Southampton	-	West Ham	-			
-15.12.19  17:00		Manchester United	-	Everton	-			
-15.12.19  17:00		Wolves	-	Tottenham	-			
-15.12.19  19:30		Arsenal	-	Manchester City	-			
-16.12.19  23:00		Crystal Palace	-	Brighton	-			
+16.12.19  22:45		Crystal Palace	1 - 1	Brighton	(0 - 0)			
+15.12.19  17:00		Manchester United	1 - 1	Everton	(0 - 1)			
+15.12.19  17:00		Wolves	1 - 2	Tottenham	(0 - 1)			
+15.12.19  19:30		Arsenal	0 - 3	Manchester City	(0 - 3)			
+14.12.19  15:30		Liverpool	2 - 0	Watford	(1 - 0)			
+14.12.19  18:00		Burnley	1 - 0	Newcastle	(0 - 0)			
+14.12.19  18:00		Chelsea	0 - 1	Bournemouth	(0 - 0)			
+14.12.19  18:00		Leicester	1 - 1	Norwich	(1 - 1)			
+14.12.19  18:00		Sheffield Utd	2 - 0	Aston Villa	(0 - 0)			
+14.12.19  20:30		Southampton	0 - 1	West Ham	(0 - 1)		
 Round 18
 21.12.19  15:30		Everton	-	Arsenal	-			
 21.12.19  18:00		Aston Villa	-	Southampton	-			
@@ -82,7 +82,7 @@ Round 18
 21.12.19  18:00		Brighton	-	Sheffield Utd	-			
 21.12.19  18:00		Newcastle	-	Crystal Palace	-			
 21.12.19  18:00		Norwich	-	Wolves	-			
-21.12.19  18:00	Pst	West Ham	-	Liverpool	-			
+21.12.19  18:00		West Ham	-	Liverpool	-			
 21.12.19  20:30		Manchester City	-	Leicester	-			
 22.12.19  17:00		Watford	-	Manchester United	-			
 22.12.19  19:30		Tottenham	-	Chelsea	-			
@@ -307,112 +307,112 @@ Round 38
 17.05.20  17:00		Southampton	-	Sheffield Utd	-			
 17.05.20  17:00		West Ham	-	Aston Villa	-		
 Round 10
-27.10.19  17:00	FT	Newcastle	1 - 1	Wolves	(1 - 0)			
-27.10.19  19:30	FT	Arsenal	2 - 2	Crystal Palace	(2 - 1)			
-27.10.19  19:30	FT	Liverpool	2 - 1	Tottenham	(0 - 1)			
-27.10.19  19:30	FT	Norwich	1 - 3	Manchester United	(0 - 2)			
-26.10.19  14:30	FT	Manchester City	3 - 0	Aston Villa	(0 - 0)			
-26.10.19  17:00	FT	Brighton	3 - 2	Everton	(1 - 1)			
-26.10.19  17:00	FT	Watford	0 - 0	Bournemouth	(0 - 0)			
-26.10.19  17:00	FT	West Ham	1 - 1	Sheffield Utd	(1 - 0)			
-26.10.19  19:30	FT	Burnley	2 - 4	Chelsea	(0 - 2)			
-25.10.19  22:00	FT	Southampton	0 - 9	Leicester	(0 - 5)			
+27.10.19  17:00		Newcastle	1 - 1	Wolves	(1 - 0)			
+27.10.19  19:30		Arsenal	2 - 2	Crystal Palace	(2 - 1)			
+27.10.19  19:30		Liverpool	2 - 1	Tottenham	(0 - 1)			
+27.10.19  19:30		Norwich	1 - 3	Manchester United	(0 - 2)			
+26.10.19  14:30		Manchester City	3 - 0	Aston Villa	(0 - 0)			
+26.10.19  17:00		Brighton	3 - 2	Everton	(1 - 1)			
+26.10.19  17:00		Watford	0 - 0	Bournemouth	(0 - 0)			
+26.10.19  17:00		West Ham	1 - 1	Sheffield Utd	(1 - 0)			
+26.10.19  19:30		Burnley	2 - 4	Chelsea	(0 - 2)			
+25.10.19  22:00		Southampton	0 - 9	Leicester	(0 - 5)			
 Round 9
-21.10.19  22:00	FT	Sheffield Utd	1 - 0	Arsenal	(1 - 0)			
-20.10.19  18:30	FT	Manchester United	1 - 1	Liverpool	(1 - 0)			
-19.10.19  14:30	FT	Everton	2 - 0	West Ham	(1 - 0)			
-19.10.19  17:00	FT	Aston Villa	2 - 1	Brighton	(1 - 1)			
-19.10.19  17:00	FT	Bournemouth	0 - 0	Norwich	(0 - 0)			
-19.10.19  17:00	FT	Chelsea	1 - 0	Newcastle	(0 - 0)			
-19.10.19  17:00	FT	Leicester	2 - 1	Burnley	(1 - 1)			
-19.10.19  17:00	FT	Tottenham	1 - 1	Watford	(0 - 1)			
-19.10.19  17:00	FT	Wolves	1 - 1	Southampton	(0 - 0)			
-19.10.19  19:30	FT	Crystal Palace	0 - 2	Manchester City	(0 - 2)			
+21.10.19  22:00		Sheffield Utd	1 - 0	Arsenal	(1 - 0)			
+20.10.19  18:30		Manchester United	1 - 1	Liverpool	(1 - 0)			
+19.10.19  14:30		Everton	2 - 0	West Ham	(1 - 0)			
+19.10.19  17:00		Aston Villa	2 - 1	Brighton	(1 - 1)			
+19.10.19  17:00		Bournemouth	0 - 0	Norwich	(0 - 0)			
+19.10.19  17:00		Chelsea	1 - 0	Newcastle	(0 - 0)			
+19.10.19  17:00		Leicester	2 - 1	Burnley	(1 - 1)			
+19.10.19  17:00		Tottenham	1 - 1	Watford	(0 - 1)			
+19.10.19  17:00		Wolves	1 - 1	Southampton	(0 - 0)			
+19.10.19  19:30		Crystal Palace	0 - 2	Manchester City	(0 - 2)			
 Round 8
-06.10.19  16:00	FT	Arsenal	1 - 0	Bournemouth	(1 - 0)			
-06.10.19  16:00	FT	Manchester City	0 - 2	Wolves	(0 - 0)			
-06.10.19  16:00	FT	Southampton	1 - 4	Chelsea	(1 - 3)			
-06.10.19  18:30	FT	Newcastle	1 - 0	Manchester United	(0 - 0)			
-05.10.19  14:30	FT	Brighton	3 - 0	Tottenham	(2 - 0)			
-05.10.19  17:00	FT	Burnley	1 - 0	Everton	(0 - 0)			
-05.10.19  17:00	FT	Liverpool	2 - 1	Leicester	(1 - 0)			
-05.10.19  17:00	FT	Norwich	1 - 5	Aston Villa	(0 - 2)			
-05.10.19  17:00	FT	Watford	0 - 0	Sheffield Utd	(0 - 0)			
-05.10.19  19:30	FT	West Ham	1 - 2	Crystal Palace	(0 - 0)			
+06.10.19  16:00		Arsenal	1 - 0	Bournemouth	(1 - 0)			
+06.10.19  16:00		Manchester City	0 - 2	Wolves	(0 - 0)			
+06.10.19  16:00		Southampton	1 - 4	Chelsea	(1 - 3)			
+06.10.19  18:30		Newcastle	1 - 0	Manchester United	(0 - 0)			
+05.10.19  14:30		Brighton	3 - 0	Tottenham	(2 - 0)			
+05.10.19  17:00		Burnley	1 - 0	Everton	(0 - 0)			
+05.10.19  17:00		Liverpool	2 - 1	Leicester	(1 - 0)			
+05.10.19  17:00		Norwich	1 - 5	Aston Villa	(0 - 2)			
+05.10.19  17:00		Watford	0 - 0	Sheffield Utd	(0 - 0)			
+05.10.19  19:30		West Ham	1 - 2	Crystal Palace	(0 - 0)			
 Round 7
-30.09.19  22:00	FT	Manchester United	1 - 1	Arsenal	(1 - 0)			
-29.09.19  18:30	FT	Leicester	5 - 0	Newcastle	(1 - 0)			
-28.09.19  14:30	FT	Sheffield Utd	0 - 1	Liverpool	(0 - 0)			
-28.09.19  17:00	FT	Aston Villa	2 - 2	Burnley	(1 - 0)			
-28.09.19  17:00	FT	Bournemouth	2 - 2	West Ham	(1 - 1)			
-28.09.19  17:00	FT	Chelsea	2 - 0	Brighton	(0 - 0)			
-28.09.19  17:00	FT	Crystal Palace	2 - 0	Norwich	(1 - 0)			
-28.09.19  17:00	FT	Tottenham	2 - 1	Southampton	(2 - 1)			
-28.09.19  17:00	FT	Wolves	2 - 0	Watford	(1 - 0)			
-28.09.19  19:30	FT	Everton	1 - 3	Manchester City	(1 - 1)			
+30.09.19  22:00		Manchester United	1 - 1	Arsenal	(1 - 0)			
+29.09.19  18:30		Leicester	5 - 0	Newcastle	(1 - 0)			
+28.09.19  14:30		Sheffield Utd	0 - 1	Liverpool	(0 - 0)			
+28.09.19  17:00		Aston Villa	2 - 2	Burnley	(1 - 0)			
+28.09.19  17:00		Bournemouth	2 - 2	West Ham	(1 - 1)			
+28.09.19  17:00		Chelsea	2 - 0	Brighton	(0 - 0)			
+28.09.19  17:00		Crystal Palace	2 - 0	Norwich	(1 - 0)			
+28.09.19  17:00		Tottenham	2 - 1	Southampton	(2 - 1)			
+28.09.19  17:00		Wolves	2 - 0	Watford	(1 - 0)			
+28.09.19  19:30		Everton	1 - 3	Manchester City	(1 - 1)			
 Round 6
-22.09.19  16:00	FT	Crystal Palace	1 - 1	Wolves	(0 - 0)			
-22.09.19  16:00	FT	West Ham	2 - 0	Manchester United	(1 - 0)			
-22.09.19  18:30	FT	Arsenal	3 - 2	Aston Villa	(0 - 1)			
-22.09.19  18:30	FT	Chelsea	1 - 2	Liverpool	(0 - 2)			
-21.09.19  14:30	FT	Leicester	2 - 1	Tottenham	(0 - 1)			
-21.09.19  17:00	FT	Burnley	2 - 0	Norwich	(2 - 0)			
-21.09.19  17:00	FT	Everton	0 - 2	Sheffield Utd	(0 - 1)			
-21.09.19  17:00	FT	Manchester City	8 - 0	Watford	(5 - 0)			
-21.09.19  19:30	FT	Newcastle	0 - 0	Brighton	(0 - 0)			
-20.09.19  22:00	FT	Southampton	1 - 3	Bournemouth	(0 - 2)			
+22.09.19  16:00		Crystal Palace	1 - 1	Wolves	(0 - 0)			
+22.09.19  16:00		West Ham	2 - 0	Manchester United	(1 - 0)			
+22.09.19  18:30		Arsenal	3 - 2	Aston Villa	(0 - 1)			
+22.09.19  18:30		Chelsea	1 - 2	Liverpool	(0 - 2)			
+21.09.19  14:30		Leicester	2 - 1	Tottenham	(0 - 1)			
+21.09.19  17:00		Burnley	2 - 0	Norwich	(2 - 0)			
+21.09.19  17:00		Everton	0 - 2	Sheffield Utd	(0 - 1)			
+21.09.19  17:00		Manchester City	8 - 0	Watford	(5 - 0)			
+21.09.19  19:30		Newcastle	0 - 0	Brighton	(0 - 0)			
+20.09.19  22:00		Southampton	1 - 3	Bournemouth	(0 - 2)			
 Round 5
-16.09.19  22:00	FT	Aston Villa	0 - 0	West Ham	(0 - 0)			
-15.09.19  16:00	FT	Bournemouth	3 - 1	Everton	(1 - 1)			
-15.09.19  18:30	FT	Watford	2 - 2	Arsenal	(0 - 2)			
-14.09.19  14:30	FT	Liverpool	3 - 1	Newcastle	(2 - 1)			
-14.09.19  17:00	FT	Brighton	1 - 1	Burnley	(0 - 0)			
-14.09.19  17:00	FT	Manchester United	1 - 0	Leicester	(1 - 0)			
-14.09.19  17:00	FT	Sheffield Utd	0 - 1	Southampton	(0 - 0)			
-14.09.19  17:00	FT	Tottenham	4 - 0	Crystal Palace	(4 - 0)			
-14.09.19  17:00	FT	Wolves	2 - 5	Chelsea	(0 - 3)			
-14.09.19  19:30	FT	Norwich	3 - 2	Manchester City	(2 - 1)			
+16.09.19  22:00		Aston Villa	0 - 0	West Ham	(0 - 0)			
+15.09.19  16:00		Bournemouth	3 - 1	Everton	(1 - 1)			
+15.09.19  18:30		Watford	2 - 2	Arsenal	(0 - 2)			
+14.09.19  14:30		Liverpool	3 - 1	Newcastle	(2 - 1)			
+14.09.19  17:00		Brighton	1 - 1	Burnley	(0 - 0)			
+14.09.19  17:00		Manchester United	1 - 0	Leicester	(1 - 0)			
+14.09.19  17:00		Sheffield Utd	0 - 1	Southampton	(0 - 0)			
+14.09.19  17:00		Tottenham	4 - 0	Crystal Palace	(4 - 0)			
+14.09.19  17:00		Wolves	2 - 5	Chelsea	(0 - 3)			
+14.09.19  19:30		Norwich	3 - 2	Manchester City	(2 - 1)			
 Round 4
-01.09.19  16:00	FT	Everton	3 - 2	Wolves	(2 - 1)			
-01.09.19  18:30	FT	Arsenal	2 - 2	Tottenham	(1 - 2)			
-31.08.19  14:30	FT	Southampton	1 - 1	Manchester United	(0 - 1)			
-31.08.19  17:00	FT	Chelsea	2 - 2	Sheffield Utd	(2 - 0)			
-31.08.19  17:00	FT	Crystal Palace	1 - 0	Aston Villa	(0 - 0)			
-31.08.19  17:00	FT	Leicester	3 - 1	Bournemouth	(2 - 1)			
-31.08.19  17:00	FT	Manchester City	4 - 0	Brighton	(2 - 0)			
-31.08.19  17:00	FT	Newcastle	1 - 1	Watford	(1 - 1)			
-31.08.19  17:00	FT	West Ham	2 - 0	Norwich	(1 - 0)			
-31.08.19  19:30	FT	Burnley	0 - 3	Liverpool	(0 - 2)			
+01.09.19  16:00		Everton	3 - 2	Wolves	(2 - 1)			
+01.09.19  18:30		Arsenal	2 - 2	Tottenham	(1 - 2)			
+31.08.19  14:30		Southampton	1 - 1	Manchester United	(0 - 1)			
+31.08.19  17:00		Chelsea	2 - 2	Sheffield Utd	(2 - 0)			
+31.08.19  17:00		Crystal Palace	1 - 0	Aston Villa	(0 - 0)			
+31.08.19  17:00		Leicester	3 - 1	Bournemouth	(2 - 1)			
+31.08.19  17:00		Manchester City	4 - 0	Brighton	(2 - 0)			
+31.08.19  17:00		Newcastle	1 - 1	Watford	(1 - 1)			
+31.08.19  17:00		West Ham	2 - 0	Norwich	(1 - 0)			
+31.08.19  19:30		Burnley	0 - 3	Liverpool	(0 - 2)			
 Round 3
-25.08.19  16:00	FT	Bournemouth	1 - 3	Manchester City	(1 - 2)			
-25.08.19  18:30	FT	Tottenham	0 - 1	Newcastle	(0 - 1)			
-25.08.19  18:30	FT	Wolves	1 - 1	Burnley	(0 - 1)			
-24.08.19  14:30	FT	Norwich	2 - 3	Chelsea	(2 - 2)			
-24.08.19  17:00	FT	Brighton	0 - 2	Southampton	(0 - 0)			
-24.08.19  17:00	FT	Manchester United	1 - 2	Crystal Palace	(0 - 1)			
-24.08.19  17:00	FT	Sheffield Utd	1 - 2	Leicester	(0 - 1)			
-24.08.19  17:00	FT	Watford	1 - 3	West Ham	(1 - 1)			
-24.08.19  19:30	FT	Liverpool	3 - 1	Arsenal	(1 - 0)			
-23.08.19  22:00	FT	Aston Villa	2 - 0	Everton	(1 - 0)			
+25.08.19  16:00		Bournemouth	1 - 3	Manchester City	(1 - 2)			
+25.08.19  18:30		Tottenham	0 - 1	Newcastle	(0 - 1)			
+25.08.19  18:30		Wolves	1 - 1	Burnley	(0 - 1)			
+24.08.19  14:30		Norwich	2 - 3	Chelsea	(2 - 2)			
+24.08.19  17:00		Brighton	0 - 2	Southampton	(0 - 0)			
+24.08.19  17:00		Manchester United	1 - 2	Crystal Palace	(0 - 1)			
+24.08.19  17:00		Sheffield Utd	1 - 2	Leicester	(0 - 1)			
+24.08.19  17:00		Watford	1 - 3	West Ham	(1 - 1)			
+24.08.19  19:30		Liverpool	3 - 1	Arsenal	(1 - 0)			
+23.08.19  22:00		Aston Villa	2 - 0	Everton	(1 - 0)			
 Round 2
-19.08.19  22:00	FT	Wolves	1 - 1	Manchester United	(0 - 1)			
-18.08.19  16:00	FT	Sheffield Utd	1 - 0	Crystal Palace	(0 - 0)			
-18.08.19  18:30	FT	Chelsea	1 - 1	Leicester	(1 - 0)			
-17.08.19  14:30	FT	Arsenal	2 - 1	Burnley	(1 - 1)			
-17.08.19  17:00	FT	Aston Villa	1 - 2	Bournemouth	(0 - 2)			
-17.08.19  17:00	FT	Brighton	1 - 1	West Ham	(0 - 0)			
-17.08.19  17:00	FT	Everton	1 - 0	Watford	(1 - 0)			
-17.08.19  17:00	FT	Norwich	3 - 1	Newcastle	(1 - 0)			
-17.08.19  17:00	FT	Southampton	1 - 2	Liverpool	(0 - 1)			
-17.08.19  19:30	FT	Manchester City	2 - 2	Tottenham	(2 - 1)			
+19.08.19  22:00		Wolves	1 - 1	Manchester United	(0 - 1)			
+18.08.19  16:00		Sheffield Utd	1 - 0	Crystal Palace	(0 - 0)			
+18.08.19  18:30		Chelsea	1 - 1	Leicester	(1 - 0)			
+17.08.19  14:30		Arsenal	2 - 1	Burnley	(1 - 1)			
+17.08.19  17:00		Aston Villa	1 - 2	Bournemouth	(0 - 2)			
+17.08.19  17:00		Brighton	1 - 1	West Ham	(0 - 0)			
+17.08.19  17:00		Everton	1 - 0	Watford	(1 - 0)			
+17.08.19  17:00		Norwich	3 - 1	Newcastle	(1 - 0)			
+17.08.19  17:00		Southampton	1 - 2	Liverpool	(0 - 1)			
+17.08.19  19:30		Manchester City	2 - 2	Tottenham	(2 - 1)			
 Round 1
-11.08.19  16:00	FT	Leicester	0 - 0	Wolves	(0 - 0)			
-11.08.19  16:00	FT	Newcastle	0 - 1	Arsenal	(0 - 0)			
-11.08.19  18:30	FT	Manchester United	4 - 0	Chelsea	(1 - 0)			
-10.08.19  14:30	FT	West Ham	0 - 5	Manchester City	(0 - 1)			
-10.08.19  17:00	FT	Bournemouth	1 - 1	Sheffield Utd	(0 - 0)			
-10.08.19  17:00	FT	Burnley	3 - 0	Southampton	(0 - 0)			
-10.08.19  17:00	FT	Crystal Palace	0 - 0	Everton	(0 - 0)			
-10.08.19  17:00	FT	Watford	0 - 3	Brighton	(0 - 1)			
-10.08.19  19:30	FT	Tottenham	3 - 1	Aston Villa	(0 - 1)			
-09.08.19  22:00	FT	Liverpool	4 - 1	Norwich	(4 - 0)		
+11.08.19  16:00		Leicester	0 - 0	Wolves	(0 - 0)			
+11.08.19  16:00		Newcastle	0 - 1	Arsenal	(0 - 0)			
+11.08.19  18:30		Manchester United	4 - 0	Chelsea	(1 - 0)			
+10.08.19  14:30		West Ham	0 - 5	Manchester City	(0 - 1)			
+10.08.19  17:00		Bournemouth	1 - 1	Sheffield Utd	(0 - 0)			
+10.08.19  17:00		Burnley	3 - 0	Southampton	(0 - 0)			
+10.08.19  17:00		Crystal Palace	0 - 0	Everton	(0 - 0)			
+10.08.19  17:00		Watford	0 - 3	Brighton	(0 - 1)			
+10.08.19  19:30		Tottenham	3 - 1	Aston Villa	(0 - 1)			
+09.08.19  22:00		Liverpool	4 - 1	Norwich	(4 - 0)		
