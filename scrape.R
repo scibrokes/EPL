@@ -45,7 +45,7 @@ res %<>% arrange(index)
 ## https://www.scorespro.com/soccer/england/premier-league/results/
 
 res <- readLines('fixture.txt') %>% 
-  str_split('\t') %>% llply(., function(x) x %>% data.frame %>% t %>% data.frame) %>% 
+  str_split('\t|nn') %>% llply(., function(x) x %>% data.frame %>% t %>% data.frame) %>% 
   bind_rows %>% 
   .[c(1:2, 4:6)]
 names(res) <- c('Round', 'KODate', 'Home', 'HG', 'Away')
@@ -77,6 +77,18 @@ res %<>%
 res <- res[!is.na(res$Home),]
 res %<>% arrange(KODate) %>% data.frame
 
+resb <- read.xlsx('res2.xlsx', detectDates = TRUE)
+names(resb) <- resb[1,]
+resb <- resb[-1,]
+resb %<>% mutate(Round = as.numeric(res$Round), KODate = ymd(res$KODate), Home = factor(res$Home), 
+                 Away = factor(res$Away), FTHG = as.numeric(res$FTHG), FTAG = as.numeric(res$FTAG), 
+                 Handicap = factor(Handicap), Home.f = as.numeric(Home.f), 
+                 Away.f = as.numeric(Away.f), AH.f1 = as.numeric(AH.f1), 
+                 AH.PL1 = as.numeric(AH.PL1), OU = factor(OU), Over = as.numeric(Over), 
+                 Under = as.numeric(Under), OU.f1 = as.numeric(OU.f1), 
+                 OU.PL1 = as.numeric(OU.PL1))
+resb$`NA` <- NULL
+
 ## =========================================================
 
 if(!require('Rmodel')) {
@@ -91,21 +103,9 @@ source('function/compileOdds (need to review).R')
 l1=FTHG~1; l2=FTAG~1; l1l2= ~c(Home,Away)+c(Away,Home); l3=~1;
 data = na.omit(res); maxit=300; xi=-0.000007; fordate=NULL; fun="glm"; inflated=TRUE
 
-
-res <- read.xlsx('res2.xlsx', detectDates = TRUE)
-names(res) <- res[1,]
-res <- res[-1,]
-res %<>% mutate(Round = as.numeric(Round), KODate = ymd(KODate), Home = factor(Home), 
-                Away = factor(Away), FTHG = as.numeric(FTHG), FTAG = as.numeric(FTAG), 
-                Handicap = factor(Handicap), Home.f = as.numeric(Home.f), 
-                Away.f = as.numeric(Away.f), AH.f1 = as.numeric(AH.f1), 
-                AH.PL1 = as.numeric(AH.PL1), OU = factor(OU), Over = as.numeric(Over), 
-                Under = as.numeric(Under), OU.f1 = as.numeric(OU.f1), 
-                OU.PL1 = as.numeric(OU.PL1))
-res$`NA` <- NULL
-
-result <- compileIndex2(data=res, xi = -0.000007, fordate = ymd('2019-12-21'))
-res2 <- subset(res, KODate == ymd('2019-12-21'))
+result <- compileIndex2(data=res, xi = -0.000007, fordate = ymd('2019-12-15'))
+res2 <- data.frame(subset(res, KODate == ymd('2019-12-15')), 
+                   subset(resb, KODate == ymd('2019-12-15'))[,-c(1:6)])
 
 
 ## ==================================================================
