@@ -1,58 +1,25 @@
-Round 25
-02.02.20  16:00		Burnley	0 - 0	Arsenal	(0 - 0)			
-02.02.20  18:30		Tottenham	2 - 0	Manchester City	(0 - 0)			
-01.02.20  14:30		Leicester	2 - 2	Chelsea	(0 - 0)			
-01.02.20  17:00		Bournemouth	2 - 1	Aston Villa	(2 - 0)		
-01.02.20  17:00		Crystal Palace	0 - 1	Sheffield Utd	(0 - 0)		
-01.02.20  17:00		Liverpool	4 - 0	Southampton	(0 - 0)			
-01.02.20  17:00		Newcastle	0 - 0	Norwich	(0 - 0)			
-01.02.20  17:00		Watford	2 - 3	Everton	(2 - 2)			
-01.02.20  17:00		West Ham	3 - 3	Brighton	(2 - 0)			
-01.02.20  19:30		Manchester United	0 - 0	Wolves	(0 - 0)
-Round 26
-08.02.20  14:30		Everton	-	Crystal Palace	-			
-08.02.20  19:30		Brighton	-	Watford	-			
-09.02.20  16:00		Sheffield Utd	-	Bournemouth	-		
-09.02.20  18:30		Manchester City	-	West Ham
-14.02.20  22:00		Wolves	-	Leicester	-			
-15.02.20  14:30		Southampton	-	Burnley	-			
-15.02.20  19:30		Norwich	-	Liverpool	-			
-16.02.20  16:00		Aston Villa	-	Tottenham	-			
-16.02.20  18:30		Arsenal	-	Newcastle	-			
-17.02.20  22:00		Chelsea	-	Manchester United	-
-Round 27
-22.02.20  18:00		Arsenal	-	Everton	-			
-22.02.20  18:00		Burnley	-	Bournemouth	-			
-22.02.20  18:00		Chelsea	-	Tottenham	-			
-22.02.20  18:00		Crystal Palace	-	Newcastle	-			
-22.02.20  18:00		Leicester	-	Manchester City	-			
-22.02.20  18:00		Liverpool	-	West Ham	-			
-22.02.20  18:00		Manchester United	-	Watford	-			
-22.02.20  18:00		Sheffield Utd	-	Brighton	-			
-22.02.20  18:00		Southampton	-	Aston Villa	-			
-22.02.20  18:00		Wolves	-	Norwich	-			
 Round 28
-29.02.20  18:00		Aston Villa	-	Sheffield Utd	-			
-29.02.20  18:00		Bournemouth	-	Chelsea	-			
-29.02.20  18:00		Brighton	-	Crystal Palace	-			
-29.02.20  18:00		Everton	-	Manchester United	-			
-29.02.20  18:00		Manchester City	-	Arsenal	-			
-29.02.20  18:00		Newcastle	-	Burnley	-			
-29.02.20  18:00		Norwich	-	Leicester	-			
-29.02.20  18:00		Tottenham	-	Wolves	-			
-29.02.20  18:00		Watford	-	Liverpool	-			
-29.02.20  18:00		West Ham	-	Southampton	-			
+01.03.20  16:00	FT	Everton	1 - 1	Manchester United	(1 - 1)			
+01.03.20  16:00	FT	Tottenham	2 - 3	Wolves	(2 - 1)			
+29.02.20  14:30	FT	Brighton	0 - 1	Crystal Palace	(0 - 0)			
+29.02.20  17:00	Pst	Aston Villa	-	Sheffield Utd	-		
+29.02.20  17:00	FT	Bournemouth	2 - 2	Chelsea	(0 - 1)			
+29.02.20  17:00	FT	Newcastle	0 - 0	Burnley	(0 - 0)			
+29.02.20  17:00	FT	West Ham	3 - 1	Southampton	(2 - 1)			
+29.02.20  19:30	FT	Watford	3 - 0	Liverpool	(0 - 0)			
+28.02.20  22:00	FT	Norwich	1 - 0	Leicester	(0 - 0)
+11.03.20  21:30	Pst	Manchester City (2)	-	Arsenal (9)	-
 Round 29
-07.03.20  18:00		Arsenal	-	West Ham	-			
-07.03.20  18:00		Burnley	-	Tottenham	-			
-07.03.20  18:00		Chelsea	-	Everton	-			
-07.03.20  18:00		Crystal Palace	-	Watford	-			
-07.03.20  18:00		Leicester	-	Aston Villa	-			
-07.03.20  18:00		Liverpool	-	Bournemouth	-			
-07.03.20  18:00		Manchester United	-	Manchester City	-			
-07.03.20  18:00		Sheffield Utd	-	Norwich	-			
-07.03.20  18:00		Southampton	-	Newcastle	-			
-07.03.20  18:00		Wolves	-	Brighton	-			
+09.03.20  22:00	FT	Leicester	4 - 0	Aston Villa	(1 - 0)			
+08.03.20  16:00	FT	Chelsea	4 - 0	Everton	(2 - 0)			
+08.03.20  18:30	FT	Manchester United	2 - 0	Manchester City	(1 - 0)		
+07.03.20  14:30	FT	Liverpool	2 - 1	Bournemouth	(2 - 1)			
+07.03.20  17:00	FT	Arsenal	1 - 0	West Ham	(0 - 0)			
+07.03.20  17:00	FT	Crystal Palace	1 - 0	Watford	(1 - 0)			
+07.03.20  17:00	FT	Sheffield Utd	1 - 0	Norwich	(1 - 0)			
+07.03.20  17:00	FT	Southampton	0 - 1	Newcastle	(0 - 0)			
+07.03.20  17:00	FT	Wolves	0 - 0	Brighton	(0 - 0)			
+07.03.20  19:30	FT	Burnley	1 - 1	Tottenham	(1 - 0)		
 Round 30
 14.03.20  18:00		Aston Villa	-	Chelsea	-			
 14.03.20  18:00		Bournemouth	-	Crystal Palace	-			
@@ -414,3 +381,36 @@ Round 24
 21.01.20  21:30		Everton	2 - 2	Newcastle	(1 - 0)			
 21.01.20  21:30		Sheffield Utd	0 - 1	Manchester City	(0 - 0)		
 21.01.20  22:15		Chelsea	2 - 2	Arsenal	(1 - 0)
+Round 25
+02.02.20  16:00		Burnley	0 - 0	Arsenal	(0 - 0)			
+02.02.20  18:30		Tottenham	2 - 0	Manchester City	(0 - 0)			
+01.02.20  14:30		Leicester	2 - 2	Chelsea	(0 - 0)			
+01.02.20  17:00		Bournemouth	2 - 1	Aston Villa	(2 - 0)		
+01.02.20  17:00		Crystal Palace	0 - 1	Sheffield Utd	(0 - 0)		
+01.02.20  17:00		Liverpool	4 - 0	Southampton	(0 - 0)			
+01.02.20  17:00		Newcastle	0 - 0	Norwich	(0 - 0)			
+01.02.20  17:00		Watford	2 - 3	Everton	(2 - 2)			
+01.02.20  17:00		West Ham	3 - 3	Brighton	(2 - 0)			
+01.02.20  19:30		Manchester United	0 - 0	Wolves	(0 - 0)
+Round 26
+19.02.20  21:30		Manchester City	2 - 0	West Ham	(1 - 0)			
+17.02.20  22:00		Chelsea	0 - 2	Manchester United	(0 - 1)			
+16.02.20  16:00		Aston Villa	2 - 3	Tottenham	(1 - 2)			
+16.02.20  18:30		Arsenal	4 - 0	Newcastle	(0 - 0)			
+15.02.20  14:30		Southampton	1 - 2	Burnley	(1 - 1)			
+15.02.20  19:30		Norwich	0 - 1	Liverpool	(0 - 0)			
+14.02.20  22:00		Wolves	0 - 0	Leicester	(0 - 0)			
+09.02.20  16:00		Sheffield Utd	2 - 1	Bournemouth	(1 - 1)		
+08.02.20  14:30		Everton	3 - 1	Crystal Palace	(1 - 0)			
+08.02.20  19:30		Brighton	1 - 1	Watford	(0 - 1)
+Round 27
+24.02.20  22:00		Liverpool	3 - 2	West Ham	(1 - 1)			
+23.02.20  16:00		Manchester United	3 - 0	Watford	(1 - 0)			
+23.02.20  16:00		Wolves	3 - 0	Norwich	(2 - 0)			
+23.02.20  18:30		Arsenal	3 - 2	Everton	(2 - 2)			
+22.02.20  14:30		Chelsea	2 - 1	Tottenham	(1 - 0)			
+22.02.20  17:00		Burnley	3 - 0	Bournemouth	(0 - 0)			
+22.02.20  17:00		Crystal Palace	1 - 0	Newcastle	(1 - 0)			
+22.02.20  17:00		Sheffield Utd	1 - 1	Brighton	(1 - 1)			
+22.02.20  17:00		Southampton	2 - 0	Aston Villa	(1 - 0)		
+22.02.20  19:30		Leicester	0 - 1	Manchester City	(0 - 0)
