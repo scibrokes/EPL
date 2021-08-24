@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Round 10
 27.10.19  17:00	FT	Newcastle	1 - 1	Wolves	(1 - 0)			
 27.10.19  19:30	FT	Arsenal	2 - 2	Crystal Palace	(2 - 1)			
@@ -108,3 +109,421 @@ Round 1
 10.08.19  17:00	FT	Watford	0 - 3	Brighton	(0 - 1)			
 10.08.19  19:30	FT	Tottenham	3 - 1	Aston Villa	(0 - 1)			
 09.08.19  22:00	FT	Liverpool	4 - 1	Norwich	(4 - 0)		
+=======
+Round 28
+01.03.20  16:00	FT	Everton	1 - 1	Manchester United	(1 - 1)			
+01.03.20  16:00	FT	Tottenham	2 - 3	Wolves	(2 - 1)			
+29.02.20  14:30	FT	Brighton	0 - 1	Crystal Palace	(0 - 0)			
+29.02.20  17:00	Pst	Aston Villa	-	Sheffield Utd	-		
+29.02.20  17:00	FT	Bournemouth	2 - 2	Chelsea	(0 - 1)			
+29.02.20  17:00	FT	Newcastle	0 - 0	Burnley	(0 - 0)			
+29.02.20  17:00	FT	West Ham	3 - 1	Southampton	(2 - 1)			
+29.02.20  19:30	FT	Watford	3 - 0	Liverpool	(0 - 0)			
+28.02.20  22:00	FT	Norwich	1 - 0	Leicester	(0 - 0)
+11.03.20  21:30	Pst	Manchester City (2)	-	Arsenal (9)	-
+Round 29
+09.03.20  22:00	FT	Leicester	4 - 0	Aston Villa	(1 - 0)			
+08.03.20  16:00	FT	Chelsea	4 - 0	Everton	(2 - 0)			
+08.03.20  18:30	FT	Manchester United	2 - 0	Manchester City	(1 - 0)		
+07.03.20  14:30	FT	Liverpool	2 - 1	Bournemouth	(2 - 1)			
+07.03.20  17:00	FT	Arsenal	1 - 0	West Ham	(0 - 0)			
+07.03.20  17:00	FT	Crystal Palace	1 - 0	Watford	(1 - 0)			
+07.03.20  17:00	FT	Sheffield Utd	1 - 0	Norwich	(1 - 0)			
+07.03.20  17:00	FT	Southampton	0 - 1	Newcastle	(0 - 0)			
+07.03.20  17:00	FT	Wolves	0 - 0	Brighton	(0 - 0)			
+07.03.20  19:30	FT	Burnley	1 - 1	Tottenham	(1 - 0)		
+Round 30
+14.03.20  18:00		Aston Villa	-	Chelsea	-			
+14.03.20  18:00		Bournemouth	-	Crystal Palace	-			
+14.03.20  18:00		Brighton	-	Arsenal	-			
+14.03.20  18:00		Everton	-	Liverpool	-			
+14.03.20  18:00		Manchester City	-	Burnley	-			
+14.03.20  18:00		Newcastle	-	Sheffield Utd	-			
+14.03.20  18:00		Norwich	-	Southampton	-			
+14.03.20  18:00		Tottenham	-	Manchester United	-			
+14.03.20  18:00		Watford	-	Leicester	-			
+14.03.20  18:00		West Ham	-	Wolves	-			
+Round 31
+21.03.20  18:00		Burnley	-	Watford	-			
+21.03.20  18:00		Chelsea	-	Manchester City	-			
+21.03.20  18:00		Leicester	-	Brighton	-			
+21.03.20  18:00		Liverpool	-	Crystal Palace	-			
+21.03.20  18:00		Manchester United	-	Sheffield Utd	-			
+21.03.20  18:00		Newcastle	-	Aston Villa	-			
+21.03.20  18:00		Norwich	-	Everton	-			
+21.03.20  18:00		Southampton	-	Arsenal	-			
+21.03.20  18:00		Tottenham	-	West Ham	-			
+21.03.20  18:00		Wolves	-	Bournemouth	-			
+Round 32
+04.04.20  17:00		Arsenal	-	Norwich	-			
+04.04.20  17:00		Aston Villa	-	Wolves	-			
+04.04.20  17:00		Bournemouth	-	Newcastle	-			
+04.04.20  17:00		Brighton	-	Manchester United	-			
+04.04.20  17:00		Crystal Palace	-	Burnley	-			
+04.04.20  17:00		Everton	-	Leicester	-			
+04.04.20  17:00		Manchester City	-	Liverpool	-			
+04.04.20  17:00		Sheffield Utd	-	Tottenham	-			
+04.04.20  17:00		Watford	-	Southampton	-			
+04.04.20  17:00		West Ham	-	Chelsea	-			
+Round 33
+11.04.20  17:00		Burnley	-	Sheffield Utd	-			
+11.04.20  17:00		Chelsea	-	Watford	-			
+11.04.20  17:00		Leicester	-	Crystal Palace	-			
+11.04.20  17:00		Liverpool	-	Aston Villa	-			
+11.04.20  17:00		Manchester United	-	Bournemouth	-			
+11.04.20  17:00		Newcastle	-	West Ham	-			
+11.04.20  17:00		Norwich	-	Brighton	-			
+11.04.20  17:00		Southampton	-	Manchester City	-			
+11.04.20  17:00		Tottenham	-	Everton	-			
+11.04.20  17:00		Wolves	-	Arsenal	-			
+Round 34
+18.04.20  17:00		Arsenal	-	Leicester	-			
+18.04.20  17:00		Aston Villa	-	Manchester United	-			
+18.04.20  17:00		Bournemouth	-	Tottenham	-			
+18.04.20  17:00		Brighton	-	Liverpool	-			
+18.04.20  17:00		Crystal Palace	-	Chelsea	-			
+18.04.20  17:00		Everton	-	Southampton	-			
+18.04.20  17:00		Manchester City	-	Newcastle	-			
+18.04.20  17:00		Sheffield Utd	-	Wolves	-			
+18.04.20  17:00		Watford	-	Norwich	-			
+18.04.20  17:00		West Ham	-	Burnley	-			
+Round 35
+25.04.20  17:00		Aston Villa	-	Crystal Palace	-			
+25.04.20  17:00		Bournemouth	-	Leicester	-			
+25.04.20  17:00		Brighton	-	Manchester City	-			
+25.04.20  17:00		Liverpool	-	Burnley	-			
+25.04.20  17:00		Manchester United	-	Southampton	-			
+25.04.20  17:00		Norwich	-	West Ham	-			
+25.04.20  17:00		Sheffield Utd	-	Chelsea	-			
+25.04.20  17:00		Tottenham	-	Arsenal	-			
+25.04.20  17:00		Watford	-	Newcastle	-			
+25.04.20  17:00		Wolves	-	Everton	-			
+Round 36
+02.05.20  17:00		Arsenal	-	Liverpool	-			
+02.05.20  17:00		Burnley	-	Wolves	-			
+02.05.20  17:00		Chelsea	-	Norwich	-			
+02.05.20  17:00		Crystal Palace	-	Manchester United	-			
+02.05.20  17:00		Everton	-	Aston Villa	-			
+02.05.20  17:00		Leicester	-	Sheffield Utd	-			
+02.05.20  17:00		Manchester City	-	Bournemouth	-			
+02.05.20  17:00		Newcastle	-	Tottenham	-			
+02.05.20  17:00		Southampton	-	Brighton	-			
+02.05.20  17:00		West Ham	-	Watford	-			
+Round 37
+09.05.20  17:00		Aston Villa	-	Arsenal	-			
+09.05.20  17:00		Bournemouth	-	Southampton	-			
+09.05.20  17:00		Brighton	-	Newcastle	-			
+09.05.20  17:00		Liverpool	-	Chelsea	-			
+09.05.20  17:00		Manchester United	-	West Ham	-			
+09.05.20  17:00		Norwich	-	Burnley	-			
+09.05.20  17:00		Sheffield Utd	-	Everton	-			
+09.05.20  17:00		Tottenham	-	Leicester	-			
+09.05.20  17:00		Watford	-	Manchester City	-			
+09.05.20  17:00		Wolves	-	Crystal Palace	-			
+Round 38
+17.05.20  17:00		Arsenal	-	Watford	-			
+17.05.20  17:00		Burnley	-	Brighton	-			
+17.05.20  17:00		Chelsea	-	Wolves	-			
+17.05.20  17:00		Crystal Palace	-	Tottenham	-			
+17.05.20  17:00		Everton	-	Bournemouth	-			
+17.05.20  17:00		Leicester	-	Manchester United	-			
+17.05.20  17:00		Manchester City	-	Norwich	-			
+17.05.20  17:00		Newcastle	-	Liverpool	-			
+17.05.20  17:00		Southampton	-	Sheffield Utd	-			
+17.05.20  17:00		West Ham	-	Aston Villa	-		
+Round 10
+27.10.19  17:00		Newcastle	1 - 1	Wolves	(1 - 0)			
+27.10.19  19:30		Arsenal	2 - 2	Crystal Palace	(2 - 1)			
+27.10.19  19:30		Liverpool	2 - 1	Tottenham	(0 - 1)			
+27.10.19  19:30		Norwich	1 - 3	Manchester United	(0 - 2)			
+26.10.19  14:30		Manchester City	3 - 0	Aston Villa	(0 - 0)			
+26.10.19  17:00		Brighton	3 - 2	Everton	(1 - 1)			
+26.10.19  17:00		Watford	0 - 0	Bournemouth	(0 - 0)			
+26.10.19  17:00		West Ham	1 - 1	Sheffield Utd	(1 - 0)			
+26.10.19  19:30		Burnley	2 - 4	Chelsea	(0 - 2)			
+25.10.19  22:00		Southampton	0 - 9	Leicester	(0 - 5)			
+Round 9
+21.10.19  22:00		Sheffield Utd	1 - 0	Arsenal	(1 - 0)			
+20.10.19  18:30		Manchester United	1 - 1	Liverpool	(1 - 0)			
+19.10.19  14:30		Everton	2 - 0	West Ham	(1 - 0)			
+19.10.19  17:00		Aston Villa	2 - 1	Brighton	(1 - 1)			
+19.10.19  17:00		Bournemouth	0 - 0	Norwich	(0 - 0)			
+19.10.19  17:00		Chelsea	1 - 0	Newcastle	(0 - 0)			
+19.10.19  17:00		Leicester	2 - 1	Burnley	(1 - 1)			
+19.10.19  17:00		Tottenham	1 - 1	Watford	(0 - 1)			
+19.10.19  17:00		Wolves	1 - 1	Southampton	(0 - 0)			
+19.10.19  19:30		Crystal Palace	0 - 2	Manchester City	(0 - 2)			
+Round 8
+06.10.19  16:00		Arsenal	1 - 0	Bournemouth	(1 - 0)			
+06.10.19  16:00		Manchester City	0 - 2	Wolves	(0 - 0)			
+06.10.19  16:00		Southampton	1 - 4	Chelsea	(1 - 3)			
+06.10.19  18:30		Newcastle	1 - 0	Manchester United	(0 - 0)			
+05.10.19  14:30		Brighton	3 - 0	Tottenham	(2 - 0)			
+05.10.19  17:00		Burnley	1 - 0	Everton	(0 - 0)			
+05.10.19  17:00		Liverpool	2 - 1	Leicester	(1 - 0)			
+05.10.19  17:00		Norwich	1 - 5	Aston Villa	(0 - 2)			
+05.10.19  17:00		Watford	0 - 0	Sheffield Utd	(0 - 0)			
+05.10.19  19:30		West Ham	1 - 2	Crystal Palace	(0 - 0)			
+Round 7
+30.09.19  22:00		Manchester United	1 - 1	Arsenal	(1 - 0)			
+29.09.19  18:30		Leicester	5 - 0	Newcastle	(1 - 0)			
+28.09.19  14:30		Sheffield Utd	0 - 1	Liverpool	(0 - 0)			
+28.09.19  17:00		Aston Villa	2 - 2	Burnley	(1 - 0)			
+28.09.19  17:00		Bournemouth	2 - 2	West Ham	(1 - 1)			
+28.09.19  17:00		Chelsea	2 - 0	Brighton	(0 - 0)			
+28.09.19  17:00		Crystal Palace	2 - 0	Norwich	(1 - 0)			
+28.09.19  17:00		Tottenham	2 - 1	Southampton	(2 - 1)			
+28.09.19  17:00		Wolves	2 - 0	Watford	(1 - 0)			
+28.09.19  19:30		Everton	1 - 3	Manchester City	(1 - 1)			
+Round 6
+22.09.19  16:00		Crystal Palace	1 - 1	Wolves	(0 - 0)			
+22.09.19  16:00		West Ham	2 - 0	Manchester United	(1 - 0)			
+22.09.19  18:30		Arsenal	3 - 2	Aston Villa	(0 - 1)			
+22.09.19  18:30		Chelsea	1 - 2	Liverpool	(0 - 2)			
+21.09.19  14:30		Leicester	2 - 1	Tottenham	(0 - 1)			
+21.09.19  17:00		Burnley	2 - 0	Norwich	(2 - 0)			
+21.09.19  17:00		Everton	0 - 2	Sheffield Utd	(0 - 1)			
+21.09.19  17:00		Manchester City	8 - 0	Watford	(5 - 0)			
+21.09.19  19:30		Newcastle	0 - 0	Brighton	(0 - 0)			
+20.09.19  22:00		Southampton	1 - 3	Bournemouth	(0 - 2)			
+Round 5
+16.09.19  22:00		Aston Villa	0 - 0	West Ham	(0 - 0)			
+15.09.19  16:00		Bournemouth	3 - 1	Everton	(1 - 1)			
+15.09.19  18:30		Watford	2 - 2	Arsenal	(0 - 2)			
+14.09.19  14:30		Liverpool	3 - 1	Newcastle	(2 - 1)			
+14.09.19  17:00		Brighton	1 - 1	Burnley	(0 - 0)			
+14.09.19  17:00		Manchester United	1 - 0	Leicester	(1 - 0)			
+14.09.19  17:00		Sheffield Utd	0 - 1	Southampton	(0 - 0)			
+14.09.19  17:00		Tottenham	4 - 0	Crystal Palace	(4 - 0)			
+14.09.19  17:00		Wolves	2 - 5	Chelsea	(0 - 3)			
+14.09.19  19:30		Norwich	3 - 2	Manchester City	(2 - 1)			
+Round 4
+01.09.19  16:00		Everton	3 - 2	Wolves	(2 - 1)			
+01.09.19  18:30		Arsenal	2 - 2	Tottenham	(1 - 2)			
+31.08.19  14:30		Southampton	1 - 1	Manchester United	(0 - 1)			
+31.08.19  17:00		Chelsea	2 - 2	Sheffield Utd	(2 - 0)			
+31.08.19  17:00		Crystal Palace	1 - 0	Aston Villa	(0 - 0)			
+31.08.19  17:00		Leicester	3 - 1	Bournemouth	(2 - 1)			
+31.08.19  17:00		Manchester City	4 - 0	Brighton	(2 - 0)			
+31.08.19  17:00		Newcastle	1 - 1	Watford	(1 - 1)			
+31.08.19  17:00		West Ham	2 - 0	Norwich	(1 - 0)			
+31.08.19  19:30		Burnley	0 - 3	Liverpool	(0 - 2)			
+Round 3
+25.08.19  16:00		Bournemouth	1 - 3	Manchester City	(1 - 2)			
+25.08.19  18:30		Tottenham	0 - 1	Newcastle	(0 - 1)			
+25.08.19  18:30		Wolves	1 - 1	Burnley	(0 - 1)			
+24.08.19  14:30		Norwich	2 - 3	Chelsea	(2 - 2)			
+24.08.19  17:00		Brighton	0 - 2	Southampton	(0 - 0)			
+24.08.19  17:00		Manchester United	1 - 2	Crystal Palace	(0 - 1)			
+24.08.19  17:00		Sheffield Utd	1 - 2	Leicester	(0 - 1)			
+24.08.19  17:00		Watford	1 - 3	West Ham	(1 - 1)			
+24.08.19  19:30		Liverpool	3 - 1	Arsenal	(1 - 0)			
+23.08.19  22:00		Aston Villa	2 - 0	Everton	(1 - 0)			
+Round 2
+19.08.19  22:00		Wolves	1 - 1	Manchester United	(0 - 1)			
+18.08.19  16:00		Sheffield Utd	1 - 0	Crystal Palace	(0 - 0)			
+18.08.19  18:30		Chelsea	1 - 1	Leicester	(1 - 0)			
+17.08.19  14:30		Arsenal	2 - 1	Burnley	(1 - 1)			
+17.08.19  17:00		Aston Villa	1 - 2	Bournemouth	(0 - 2)			
+17.08.19  17:00		Brighton	1 - 1	West Ham	(0 - 0)			
+17.08.19  17:00		Everton	1 - 0	Watford	(1 - 0)			
+17.08.19  17:00		Norwich	3 - 1	Newcastle	(1 - 0)			
+17.08.19  17:00		Southampton	1 - 2	Liverpool	(0 - 1)			
+17.08.19  19:30		Manchester City	2 - 2	Tottenham	(2 - 1)			
+Round 1
+11.08.19  16:00		Leicester	0 - 0	Wolves	(0 - 0)			
+11.08.19  16:00		Newcastle	0 - 1	Arsenal	(0 - 0)			
+11.08.19  18:30		Manchester United	4 - 0	Chelsea	(1 - 0)			
+10.08.19  14:30		West Ham	0 - 5	Manchester City	(0 - 1)			
+10.08.19  17:00		Bournemouth	1 - 1	Sheffield Utd	(0 - 0)			
+10.08.19  17:00		Burnley	3 - 0	Southampton	(0 - 0)			
+10.08.19  17:00		Crystal Palace	0 - 0	Everton	(0 - 0)			
+10.08.19  17:00		Watford	0 - 3	Brighton	(0 - 1)			
+10.08.19  19:30		Tottenham	3 - 1	Aston Villa	(0 - 1)			
+09.08.19  22:00		Liverpool	4 - 1	Norwich	(4 - 0)		
+Round 11
+02.11.19  15:30		Bournemouth	1 - 0	Manchester United	-			
+02.11.19  18:00		Arsenal	1 - 1	Wolves	-			
+02.11.19  18:00		Aston Villa	1 - 2	Liverpool	-			
+02.11.19  18:00		Brighton	2 - 0	Norwich	-			
+02.11.19  18:00		Manchester City	2 - 1	Southampton	-			
+02.11.19  18:00		Sheffield Utd	3 - 0	Burnley	-			
+02.11.19  18:00		West Ham	2 - 3	Newcastle	-			
+02.11.19  20:30		Watford	1 - 2	Chelsea	-			
+03.11.19  17:00		Crystal Palace	0 - 2	Leicester	-			
+03.11.19  19:30		Everton	1 - 1	Tottenham	-			
+Round 12
+08.11.19  23:00		Norwich	0 - 2	Watford	-			
+09.11.19  15:30		Chelsea	2 - 0	Crystal Palace	-			
+09.11.19  18:00		Burnley	3 - 0	West Ham	-			
+09.11.19  18:00		Newcastle	2 - 1	Bournemouth	-			
+09.11.19  18:00		Southampton	1 - 2	Everton	-			
+09.11.19  18:00		Tottenham	1 - 1	Sheffield Utd	-			
+09.11.19  20:30		Leicester	2 - 0	Arsenal	-			
+10.11.19  17:00		Manchester United	3 - 1	Brighton	-			
+10.11.19  17:00		Wolves	2 - 1	Aston Villa	-			
+10.11.19  19:30		Liverpool	3 - 1	Manchester City	-			
+Round 13
+25.11.19  23:00		Aston Villa	2 - 0	Newcastle	(2 - 0)			
+24.11.19  19:30nn   nnSheffield Utdnn  3 - 3  nnManchester United	-	
+23.11.19  15:30		West Ham	2 - 3	Tottenham	(0 - 2)			
+23.11.19  18:00		Arsenal	2 - 2	Southampton	(1 - 1)			
+23.11.19  18:00		Bournemouth	1 - 2	Wolves	(0 - 2)			
+23.11.19  18:00		Brighton	0 - 2	Leicester	(0 - 0)			
+23.11.19  18:00		Crystal Palace	1 - 2	Liverpool	(0 - 0)			
+23.11.19  18:00		Everton	0 - 2	Norwich	(0 - 0)			
+23.11.19  18:00		Watford	0 - 3	Burnley	(0 - 0)			
+23.11.19  20:30		Manchester City	2 - 1	Chelsea
+Round 14
+01.12.19  17:00		Norwich	2 - 2	Arsenal	(2 - 1)			
+01.12.19  17:00		Wolves	1 - 1	Sheffield Utd	(0 - 1)			
+01.12.19  19:30		Leicester	2 - 1	Everton	(0 - 1)			
+01.12.19  19:30		Manchester United	2 - 2	Aston Villa	(1 - 1)			
+30.11.19  15:30		Newcastle	2 - 2	Manchester City	(1 - 1)			
+30.11.19  18:00		Burnley	0 - 2	Crystal Palace	(0 - 1)			
+30.11.19  18:00		Chelsea	0 - 1	West Ham	(0 - 0)			
+30.11.19  18:00		Liverpool	2 - 1	Brighton	(2 - 0)			
+30.11.19  18:00		Tottenham	3 - 2	Bournemouth	(1 - 0)			
+30.11.19  20:30		Southampton	2 - 1	Watford	(0 - 1)
+Round 15
+05.12.19  22:30		Sheffield Utd	0 - 2	Newcastle	(0 - 1)			
+05.12.19  23:15		Arsenal	1 - 2	Brighton	(0 - 1)			
+04.12.19  22:30		Chelsea	2 - 1	Aston Villa	(1 - 1)			
+04.12.19  22:30		Leicester	2 - 0	Watford	(0 - 0)			
+04.12.19  22:30		Manchester United	2 - 1	Tottenham	(1 - 1)			
+04.12.19  22:30		Southampton	2 - 1	Norwich	(2 - 0)			
+04.12.19  22:30		Wolves	2 - 0	West Ham	(1 - 0)			
+04.12.19  23:15		Liverpool	5 - 2	Everton	(4 - 2)			
+03.12.19  22:30		Crystal Palace	1 - 0	Bournemouth	(0 - 0)			
+03.12.19  23:15		Burnley	1 - 4	Manchester City	(0 - 1)			
+Round 16
+09.12.19  23:00		West Ham	1 - 3	Arsenal	(1 - 0)			
+08.12.19  17:00		Aston Villa	1 - 4	Leicester	(1 - 2)			
+08.12.19  17:00		Newcastle	2 - 1	Southampton	(0 - 0)			
+08.12.19  17:00		Norwich	1 - 2	Sheffield Utd	(1 - 0)			
+08.12.19  19:30		Brighton	2 - 2	Wolves	(2 - 2)			
+07.12.19  15:30		Everton	3 - 1	Chelsea	(1 - 0)			
+07.12.19  18:00		Bournemouth	0 - 3	Liverpool	(0 - 2)			
+07.12.19  18:00		Tottenham	5 - 0	Burnley	(3 - 0)			
+07.12.19  18:00		Watford	0 - 0	Crystal Palace	(0 - 0)			
+07.12.19  20:30		Manchester City	1 - 2	Manchester United	(0 - 2)	
+Round 17
+16.12.19  22:45		Crystal Palace	1 - 1	Brighton	(0 - 0)			
+15.12.19  17:00		Manchester United	1 - 1	Everton	(0 - 1)			
+15.12.19  17:00		Wolves	1 - 2	Tottenham	(0 - 1)			
+15.12.19  19:30		Arsenal	0 - 3	Manchester City	(0 - 3)			
+14.12.19  15:30		Liverpool	2 - 0	Watford	(1 - 0)			
+14.12.19  18:00		Burnley	1 - 0	Newcastle	(0 - 0)			
+14.12.19  18:00		Chelsea	0 - 1	Bournemouth	(0 - 0)			
+14.12.19  18:00		Leicester	1 - 1	Norwich	(1 - 1)			
+14.12.19  18:00		Sheffield Utd	2 - 0	Aston Villa	(0 - 0)			
+14.12.19  20:30		Southampton	0 - 1	West Ham	(0 - 1)		
+Round 18
+22.12.19  17:00		Watford	2 - 0	Manchester United	(0 - 0)			
+22.12.19  19:30		Tottenham	0 - 2	Chelsea	(0 - 2)			
+21.12.19  15:30		Everton	0 - 0	Arsenal	(0 - 0)			
+21.12.19  18:00		Aston Villa	1 - 3	Southampton	(0 - 2)		
+21.12.19  18:00		Bournemouth	0 - 1	Burnley	(0 - 0)			
+21.12.19  18:00		Brighton	0 - 1	Sheffield Utd	(0 - 1)			
+21.12.19  18:00		Newcastle	1 - 0	Crystal Palace	(0 - 0)			
+21.12.19  18:00		Norwich	1 - 2	Wolves	(1 - 0)			
+29.01.20  21:45		West Ham (18)	0 - 2	Liverpool (1)	(0 - 1)
+21.12.19  20:30		Manchester City	3 - 1	Leicester	(2 - 1)
+Round 19
+26.12.19  15:30		Tottenham	2 - 1	Brighton	(0 - 1)			
+26.12.19  18:00		Aston Villa	1 - 0	Norwich	(0 - 0)			
+26.12.19  18:00		Bournemouth	1 - 1	Arsenal	(1 - 0)			
+26.12.19  18:00		Chelsea	0 - 2	Southampton	(0 - 1)			
+26.12.19  18:00		Crystal Palace	2 - 1	West Ham	(0 - 0)			
+26.12.19  18:00		Everton	1 - 0	Burnley	(0 - 0)			
+26.12.19  18:10		Sheffield Utd	1 - 1	Watford	(1 - 1)			
+26.12.19  20:30		Manchester United	4 - 1	Newcastle	(3 - 1)			
+26.12.19  23:00		Leicester	0 - 4	Liverpool	(0 - 1)
+27.12.19  22:45		Wolves	-	Manchester City	-			
+Round 20
+29.12.19  17:00		Arsenal	1 - 2	Chelsea	(1 - 0)			
+29.12.19  19:30		Liverpool	1 - 0	Wolves	(1 - 0)			
+29.12.19  21:00		Manchester City	2 - 0	Sheffield Utd	(0 - 0)		
+28.12.19  15:30		Brighton	2 - 0	Bournemouth	(1 - 0)			
+28.12.19  18:00		Newcastle	1 - 2	Everton	(0 - 1)			
+28.12.19  18:00		Southampton	1 - 1	Crystal Palace	(0 - 0)			
+28.12.19  18:00		Watford	3 - 0	Aston Villa	(1 - 0)			
+28.12.19  20:30		Norwich	2 - 2	Tottenham	(1 - 0)			
+28.12.19  20:30		West Ham	1 - 2	Leicester	(1 - 1)			
+28.12.19  22:45		Burnley	0 - 2	Manchester United	(0 - 1)	
+Round 21
+01.01.20  15:30		Brighton	1 - 1	Chelsea	(0 - 1)			
+01.01.20  15:30		Burnley	1 - 2	Aston Villa	(0 - 2)
+01.01.20  18:00		Newcastle	0 - 3	Leicester	(0 - 2)			
+01.01.20  18:00		Southampton	1 - 0	Tottenham	(1 - 0)			
+01.01.20  18:00		Watford	2 - 1	Wolves	(1 - 0)			
+01.01.20  20:30		Manchester City	2 - 1	Everton 	(0 - 0)			
+01.01.20  20:30		Norwich	1 - 1	Crystal Palace	(1 - 0)			
+01.01.20  20:30		West Ham	4 - 0	Bournemouth	(3 - 0)			
+01.01.20  23:00		Arsenal	2 - 0	Manchester United	(2 - 0)
+Round 22
+12.01.20  17:00		Bournemouth	0 - 3	Watford	(0 - 1)			
+11.01.20  15:30		Crystal Palace	1 - 1	Arsenal	(0 - 1)			
+11.01.20  18:00		Chelsea	3 - 0	Burnley	(2 - 0)			
+11.01.20  18:00		Everton	1 - 0	Brighton	(1 - 0)			
+11.01.20  18:00		Leicester	1 - 2	Southampton	(1 - 1)			
+11.01.20  18:00		Manchester United	4 - 0	Norwich	(1 - 0)			
+11.01.20  18:00		Wolves	1 - 1	Newcastle	(1 - 1)			
+11.01.20  20:30		Tottenham	0 - 1	Liverpool	(0 - 1)			
+10.01.20  23:00		Sheffield Utd	1 - 0	West Ham	(0 - 0)
+Round 23
+19.01.20  16:00		Burnley	2 - 1	Leicester	(0 - 1)			
+19.01.20  18:30		Liverpool	2 - 0	Manchester United	(1 - 0)			
+18.01.20  14:30		Watford	0 - 0	Tottenham	(0 - 0)			
+18.01.20  17:00		Arsenal	1 - 1	Sheffield Utd	(1 - 0)			
+18.01.20  17:00		Brighton	1 - 1	Aston Villa	(1 - 0)			
+18.01.20  17:00		Manchester City	2 - 2	Crystal Palace	(0 - 1)			
+18.01.20  17:00		Norwich	1 - 0	Bournemouth	(1 - 0)			
+18.01.20  17:00		Southampton	2 - 3	Wolves	(2 - 0)			
+18.01.20  17:00		West Ham	1 - 1	Everton	(1 - 1)			
+18.01.20  19:30		Newcastle	1 - 0	Chelsea	(0 - 0)
+Round 24
+23.01.20  22:00		Wolves	1 - 2	Liverpool	(0 - 1)			
+22.01.20  21:30		Leicester	4 - 1	West Ham	(2 - 0)			
+22.01.20  21:30		Tottenham	2 - 1	Norwich	(1 - 0)			
+22.01.20  22:15		Manchester United	0 - 2	Burnley	(0 - 1)			
+21.01.20  21:30		Aston Villa	2 - 1	Watford	(0 - 1)			
+21.01.20  21:30		Bournemouth	3 - 1	Brighton	(2 - 0)			
+21.01.20  21:30		Crystal Palace	0 - 2	Southampton	(0 - 1)			
+21.01.20  21:30		Everton	2 - 2	Newcastle	(1 - 0)			
+21.01.20  21:30		Sheffield Utd	0 - 1	Manchester City	(0 - 0)		
+21.01.20  22:15		Chelsea	2 - 2	Arsenal	(1 - 0)
+Round 25
+02.02.20  16:00		Burnley	0 - 0	Arsenal	(0 - 0)			
+02.02.20  18:30		Tottenham	2 - 0	Manchester City	(0 - 0)			
+01.02.20  14:30		Leicester	2 - 2	Chelsea	(0 - 0)			
+01.02.20  17:00		Bournemouth	2 - 1	Aston Villa	(2 - 0)		
+01.02.20  17:00		Crystal Palace	0 - 1	Sheffield Utd	(0 - 0)		
+01.02.20  17:00		Liverpool	4 - 0	Southampton	(0 - 0)			
+01.02.20  17:00		Newcastle	0 - 0	Norwich	(0 - 0)			
+01.02.20  17:00		Watford	2 - 3	Everton	(2 - 2)			
+01.02.20  17:00		West Ham	3 - 3	Brighton	(2 - 0)			
+01.02.20  19:30		Manchester United	0 - 0	Wolves	(0 - 0)
+Round 26
+19.02.20  21:30		Manchester City	2 - 0	West Ham	(1 - 0)			
+17.02.20  22:00		Chelsea	0 - 2	Manchester United	(0 - 1)			
+16.02.20  16:00		Aston Villa	2 - 3	Tottenham	(1 - 2)			
+16.02.20  18:30		Arsenal	4 - 0	Newcastle	(0 - 0)			
+15.02.20  14:30		Southampton	1 - 2	Burnley	(1 - 1)			
+15.02.20  19:30		Norwich	0 - 1	Liverpool	(0 - 0)			
+14.02.20  22:00		Wolves	0 - 0	Leicester	(0 - 0)			
+09.02.20  16:00		Sheffield Utd	2 - 1	Bournemouth	(1 - 1)		
+08.02.20  14:30		Everton	3 - 1	Crystal Palace	(1 - 0)			
+08.02.20  19:30		Brighton	1 - 1	Watford	(0 - 1)
+Round 27
+24.02.20  22:00		Liverpool	3 - 2	West Ham	(1 - 1)			
+23.02.20  16:00		Manchester United	3 - 0	Watford	(1 - 0)			
+23.02.20  16:00		Wolves	3 - 0	Norwich	(2 - 0)			
+23.02.20  18:30		Arsenal	3 - 2	Everton	(2 - 2)			
+22.02.20  14:30		Chelsea	2 - 1	Tottenham	(1 - 0)			
+22.02.20  17:00		Burnley	3 - 0	Bournemouth	(0 - 0)			
+22.02.20  17:00		Crystal Palace	1 - 0	Newcastle	(1 - 0)			
+22.02.20  17:00		Sheffield Utd	1 - 1	Brighton	(1 - 1)			
+22.02.20  17:00		Southampton	2 - 0	Aston Villa	(1 - 0)		
+22.02.20  19:30		Leicester	0 - 1	Manchester City	(0 - 0)
+>>>>>>> aae6d845c2334bf650f93a53ec21415d0efcf3b4
